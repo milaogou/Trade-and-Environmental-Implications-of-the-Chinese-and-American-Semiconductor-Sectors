@@ -1,0 +1,62 @@
+This is BibTeX, Version 0.99d (TeX Live 2024)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: demo.aux
+The style file: GBT7714-2005NLang.bst
+A level-1 auxiliary file: chapters/abstract.aux
+A level-1 auxiliary file: chapters/chapter1.aux
+A level-1 auxiliary file: chapters/chapter2.aux
+A level-1 auxiliary file: chapters/chapter3.aux
+A level-1 auxiliary file: chapters/chapter4.aux
+A level-1 auxiliary file: chapters/conclusion.aux
+A level-1 auxiliary file: chapters/discussion.aux
+Database file #1: reference//chap1.bib
+Database file #2: reference//chap2.bib
+Database file #3: reference//chap3.bib
+Database file #4: reference/storage.bib
+Database file #5: reference/no_trade.bib
+Warning--I didn't find a database entry for "WorldBank2023"
+Warning--I didn't find a database entry for "AtlanticCouncil2023"
+Warning--I didn't find a database entry for "MinistryofCommercePRC2023"
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+You've used 36 entries,
+            3354 wiz_defined-function locations,
+            1146 strings with 21027 characters,
+and the built_in function-call counts, 128510 in all, are:
+= -- 1719
+> -- 18042
+< -- 11794
++ -- 6263
+- -- 284
+* -- 1537
+:= -- 14591
+add.period$ -- 138
+call.type$ -- 36
+change.case$ -- 72
+chr.to.int$ -- 5755
+cite$ -- 36
+duplicate$ -- 12202
+empty$ -- 1647
+format.name$ -- 297
+if$ -- 27580
+int.to.chr$ -- 5
+int.to.str$ -- 37
+missing$ -- 0
+newline$ -- 219
+num.names$ -- 108
+pop$ -- 6005
+preamble$ -- 1
+purify$ -- 36
+quote$ -- 0
+skip$ -- 12261
+stack$ -- 0
+substring$ -- 6544
+swap$ -- 78
+text.length$ -- 72
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 360
+warning$ -- 0
+while$ -- 171
+width$ -- 0
+write$ -- 620
+(There were 3 warnings)

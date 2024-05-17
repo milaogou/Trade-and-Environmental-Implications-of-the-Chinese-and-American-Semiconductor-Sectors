@@ -1,0 +1,146 @@
+\begin{appendices}
+
+% This section outlines key definitions and datasets utilized throughout this study, including categorizations within the semiconductor industry and an ISO 3166-1 country codes reference.
+
+% \subsection{Semiconductor Industry Categorization}
+%     In the context of this study, the semiconductor industry is categorized into three main segments, as follows:
+\section{Semiconductivity Related Products}
+\noindent
+\label{appendixA}
+\begin{longtable}{|>{\raggedright\arraybackslash}p{6cm}|>{\raggedright\arraybackslash}p{8cm}|}
+    \hline
+    \textbf{Category} & \textbf{Details} \\
+    \hline
+    \endhead % Everything above this will repeat as a header on each new page
+    Semiconductivity Related Products: & This category encompasses all products associated with the semiconductor industry, including both upstream and downstream products. Upstream products involve the initial stages of the semiconductor manufacturing process and include items such as non-ferrous metal ores, concentrates, precious metals, and their secondary forms for treatment and reprocessing. Downstream products are those that represent the final stages of semiconductor production, comprising electrical machinery, office machinery and computers, communication equipment, and medical or precision instruments. \\
+    \hline
+    Semiconductivity Upstream Products: & Products in this category are involved in the early stages of the semiconductor manufacturing process. They include:
+    \begin{itemize}
+        \item Other non-ferrous metal ores and concentrates.
+        \item Secondary other non-ferrous metals for treatment, and re-processing of secondary other non-ferrous metals into new other non-ferrous metals.
+        \item Precious metals.
+        \item Secondary precious metals for treatment, and re-processing of secondary precious metals into new precious metals.
+    \end{itemize} \\
+    \hline
+    Semiconductivity Downstream Products: & This segment covers products that are at the final stages of the semiconductor production chain. The products include:
+    \begin{itemize}
+        \item Electrical machinery and apparatus n.e.c. (31).
+        \item Office machinery and computers (30).
+        \item Radio, television and communication equipment and apparatus (32).
+        \item Medical, precision and optical instruments, watches and clocks (33).
+    \end{itemize} \\
+    \hline
+\end{longtable}
+
+% \subsection{ISO 3166-1 Country Codes Reference}
+
+% For the purpose of this study, a comprehensive list of ISO 3166-1 country codes is employed to standardize the identification of countries and territories in our dataset. This reference aids in the uniform representation and analysis of global trade and environmental impact assessments related to the semiconductor industry. The table below provides the ISO 3166-1 alpha-2 codes, alpha-3 codes, and the corresponding country or territory names.
+\section{ISO 3166-1 Codes and Countries}
+\label{appendixB}
+\begin{longtable}{lll}
+    \caption{ISO 3166-1 Codes and Countries} \label{table:iso_codes} \\
+    \hline
+    \textbf{ISO Code} & \textbf{ISO3} & \textbf{Name} \\ \hline
+    \endfirsthead % This is the header for the first page
+    \multicolumn{3}{c}%
+    {\tablename\ \thetable\ -- \textit{Continued from previous page}} \\
+    \hline
+    \textbf{ISO Code} & \textbf{ISO3} & \textbf{Name} \\ \hline
+    \endhead % Header for all other pages
+    \hline
+    \multicolumn{3}{r}{\textit{Continued on next page}} \\
+    \endfoot
+    \hline
+    \endlastfoot
+    AT & AUT & Austria \\
+    AU & AUS & Australia \\
+    BE & BEL & Belgium \\
+    BG & BGR & Bulgaria \\
+    BR & BRA & Brazil \\
+    CA & CAN & Canada \\
+    CH & CHE & Switzerland \\
+    CN & CHN & China \\
+    CY & CYP & Cyprus \\
+    CZ & CZE & Czech Republic \\
+    DE & DEU & Germany \\
+    DK & DNK & Denmark \\
+    EE & EST & Estonia \\
+    ES & ESP & Spain \\
+    FI & FIN & Finland \\
+    FR & FRA & France \\
+    GB & GBR & U.K. of Great Britain and Northern Ireland \\
+    GR & GRC & Greece \\
+    HR & HRV & Croatia \\
+    HU & HUN & Hungary \\
+    ID & IDN & Indonesia \\
+    IE & IRL & Ireland \\
+    IN & IND & India \\
+    IT & ITA & Italy \\
+    JP & JPN & Japan \\
+    KR & KOR & Republic of Korea \\
+    LT & LTU & Lithuania \\
+    LU & LUX & Luxembourg \\
+    LV & LVA & Latvia \\
+    MT & MLT & Malta \\
+    MX & MEX & Mexico \\
+    NL & NLD & Netherlands \\
+    NO & NOR & Norway \\
+    PL & POL & Poland \\
+    PT & PRT & Portugal \\
+    RO & ROU & Romania \\
+    RU & RUS & Russian Federation \\
+    SE & SWE & Sweden \\
+    SI & SVN & Slovenia \\
+    SK & SVK & Slovakia \\
+    TR & TUR & Turkey \\
+    TW & TWN & Taiwan \\
+    US & USA & United States of America \\
+    ZA & ZAF & South Africa \\
+    \multicolumn{2}{l}{WA} & RoW Asia and Pacific \\
+    \multicolumn{2}{l}{WE} & RoW Europe \\
+    \multicolumn{2}{l}{WF} & RoW Africa \\
+    \multicolumn{2}{l}{WL} & RoW America \\
+    \multicolumn{2}{l}{WM} & RoW Middle East \\
+\end{longtable}
+
+
+\section{Data File Introduction}
+\label{appendixC}
+
+\begin{longtable}{|p{0.2\textwidth}|p{0.8\textwidth}|}
+    \hline
+    \textbf{File Name} & \texttt{County Info.csv} \\
+    \textbf{Description} & Provides data of country codes and country names. \\
+    \hline
+    \textbf{File Name} & \texttt{Conclusion.csv} \\
+    \textbf{Description} & The selected data for conclusion chapter. \\
+    \hline
+    \textbf{File Name} & \texttt{CBA and PBA (kg CO2 eq.).csv} \\
+    \textbf{Description} & Compares carbon emissions based on Consumption-Based and Production-Based Accounting in 2022. \\
+    \hline
+    \textbf{File Name} & \texttt{CBA(kg CO2 eq.) and Carbon Uplift If No Trade.csv} \\
+    \textbf{Description} & Details the CBA of carbon emissions and the uplift in a no-trade scenario in 2022. \\
+    \hline
+    \textbf{File Name} & \texttt{Carbon Stressor(kg CO2 by M EUR) Heatmap in 2022.csv} \\
+    \textbf{Description} & Provides data for creating a heatmap of carbon stressors per million EUR in 2022. \\
+    \hline
+    \textbf{File Name} & \texttt{Carbon Uplift If No Trade 2022.csv} \\
+    \textbf{Description} & Records the increase in carbon emissions in the absence of trade for the year 2022. \\
+    \hline
+    \textbf{File Name} & \texttt{Carbon Uplift If No Trade in 2022.csv} \\
+    \textbf{Description} & Records the increase in carbon emissions in the absence of trade for the year 2022 for selected countries and sectors. \\
+    \hline
+    \textbf{File Name} & \texttt{carbon\_uplift\_by\_sector\_2000.csv} to \texttt{carbon\_uplift\_by\_sector\_2022.csv} \\
+    \textbf{Description} & Annual data on carbon uplift by sector under no trade scenarios from 2000 to 2022. \\
+    \hline
+    \textbf{File Name} & \texttt{bil\_carbon\_uplift\_by\_sector\_2000.csv} to \texttt{bil\_carbon\_uplift\_by\_sector\_2022.csv} \\
+    \textbf{Description} & Annual data on carbon uplift by sector under bilateral trade scenarios from 2000 to 2022. \\
+    \hline
+    \textbf{File Name} & \texttt{bil\_gamed\_carbon\_uplift\_by\_sector\_2000.csv} to \texttt{bil\_gamed\_carbon\_uplift\_by\_sector\_2022.csv} \\
+    \textbf{Description} & Data on carbon uplift by sector considering strategic trade reallocation (gaming scenario) from 2000 to 2022. \\
+    \hline
+    \textbf{File Name} & \texttt{Carbon\_stressor\_2000.csv} to \texttt{Carbon\_stressor\_2022.csv} \\
+    \textbf{Description} & Annual files recording carbon stressors from 2000 to 2022. \\
+    \hline
+\end{longtable}
+\end{appendices}

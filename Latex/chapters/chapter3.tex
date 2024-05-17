@@ -1,0 +1,144 @@
+\chapter{Methodology and Data}
+\label{chap:METHODOLOGY AND DATA}
+
+\section{Trade-Related Variables Calculation: MRIO Model}
+
+The input-output model is a powerful tool for analyzing the environmental impacts of human economic activities within a complex system. It details the quantitative dependencies between production and consumption and sheds light on both the direct and indirect economic connections across global sectors (\supercitet{RN135}). This model has evolved from assessing single regions to more intricate multi-regional input-output analyses (MRIO), which precisely identify the sources of imports (\supercitet{RN145}). Furthermore, the incorporation of environmental metrics into the MRIO model allows for a detailed examination of the relationships between economic activities and their environmental impacts, making it a widely used tool to track the environmental footprints of global trade.
+
+Adhering to traditional production theory, trade involves the consumption of various resources and services to produce economic outputs (\supercitet{RN128}). In this study, we conceptualize the environmental production framework concerning trade, identifying capital, labor, and energy as inputs; value added as the desirable output; and pollutants as the undesirable outputs. We focus on greenhouse gases—major contributors to global warming and atmospheric pollutants like acid rain and photochemical smog—as primary indicators of environmental impact (\supercitet{RN125}; \supercitet{RN150}; \supercitet{RN175}).
+
+Utilizing the MRIO model, we establish a list of trade-related variables under scenarios of actual trade and hypothetical no-trade conditions. The differential in emissions of the three selected pollutants under these scenarios highlights the direct environmental impact of trade protection measures. Assume the global economy consists of N interconnected economies, each comprising S specific industrial sectors:
+
+\begin{align}
+X_1 &= Z_{11} + Z_{12} + \cdots + Z_{1N} + Y_1 \notag \\
+X_2 &= Z_{21} + Z_{22} + \cdots + Z_{2N} + Y_2 \notag \\
+&\ \vdots \notag \\
+X_N &= Z_{N1} + Z_{N2} + \cdots + Z_{NN} + Y_N
+\label{eq:X_Z}
+\end{align}
+where Xi, Yi, Zij denote the total output matrix (S x 1) of economy i, the final demand matrix (S x 1) for economy i, and the intermediate inputs matrix from economy i to economy j (S x S), respectively. These matrices are economic variables expressed in monetary units, typically dollars.
+The technical coefficient, known as the direct consumption coefficient Aij (S x S), quantifies the direct inputs consumed by economy i during the production of one unit of total output for economy j.
+\begin{equation}
+A_{ij} = \left[a_{ij}\right]
+\label{eq:A}
+\end{equation}
+
+\begin{equation}
+a_{ij} = \frac{z_{ij}}{x_{j}}
+\label{eq:a}
+\end{equation}
+
+Then, Equation \eqref{eq:X_Z} can be rearranged as
+\begin{equation}
+\begin{bmatrix}
+X_1 \\
+X_2 \\
+\vdots \\
+X_N
+\end{bmatrix} =
+\begin{bmatrix}
+A_{11} & A_{12} & \dots & A_{1N} \\
+A_{21} & A_{22} & \dots & A_{2N} \\
+\vdots & \vdots & \ddots & \vdots \\
+A_{N1} & A_{N2} & \dots & A_{NN}
+
+\end{bmatrix}
+\begin{bmatrix}
+X_1 \\
+X_2 \\
+\vdots \\
+X_N
+\end{bmatrix} +
+\begin{bmatrix}
+Y_1 \\
+Y_2 \\
+\vdots \\
+Y_N
+\end{bmatrix}
+\label{eq:X_original}
+\end{equation}
+
+\begin{equation}
+\begin{bmatrix}
+X_1 \\
+X_2 \\
+\vdots \\
+X_N
+\end{bmatrix} =
+\begin{bmatrix}
+I-A_{11} & -A_{12} & \dots & -A_{1N} \\
+-A_{21} & I-A_{22} & \dots & -A_{2N} \\
+\vdots & \vdots & \ddots & \vdots \\
+-A_{N1} & -A_{N2} & \dots & I-A_{NN}
+\end{bmatrix}^{-1}=
+\begin{bmatrix}
+L_{11} & L_{12} & \dots & L_{1N} \\
+L_{21} & L_{22} & \dots & L_{2N} \\
+\vdots & \vdots & \ddots & \vdots \\
+L_{N1} & L_{N2} & \dots & L_{NN}
+\end{bmatrix}
+\begin{bmatrix}
+Y_1 \\
+Y_2 \\
+\vdots \\
+Y_N
+\end{bmatrix}
+\label{eq:X_LY}
+\end{equation}
+
+where Lij, the Leontief inverse matrix (S x S), denotes the total inputs required by economy i to produce one unit of final output for economy j. This coefficient connects the final consumption with its associated direct and indirect production activities.
+
+\section{Carbon Footprint Calcalation}
+
+In the framework of understanding environmental impacts associated with economic activities, two prevalent methodologies are employed to account for carbon dioxide emissions: Production-Based Accounting (PBA) and Consumption-Based Accounting (CBA). These approaches are integral to the assessment of global greenhouse gas (GHG) emissions and their implications on climate change. GHG emissions are often measured in terms of Global Warming Potential over a 100-year period (GWP100), facilitating a standardized comparison of different gases relative to carbon dioxide (CO2), which is assigned a GWP of 1.
+
+PBA focuses on the emissions generated within the territorial boundaries of a nation. This method attributes all GHG emissions to the country where they are produced, regardless of where the goods or services are ultimately consumed. Thus, PBA is heavily reliant on the direct emissions from production processes. These emissions are quantifiable through the carbon intensity of various industrial sectors, represented by the ratio of GHG emissions to the total output ($X_i$) in each sector. Mathematically, this is expressed as:
+\begin{equation}
+    S_i = \frac{{PBA_i}}{X_i}
+    \label{eq:S}
+    \end{equation}
+where $S_i$  denotes the sector-specific carbon intensity, and $PBA_i$ represents the total GHG emissions from $sector_i$ based on production. The database Exiobase3 provides comprehensive data on $GHG_{PBA}$, capturing these emissions under the GWP100 standard, thus allowing for aggregation and comparison across different gases and sectors as CO2 equivalents (CO2e).
+
+Conversely, CBA shifts the focus from production to consumption, attributing emissions to the end consumer of the goods and services. This approach encompasses not only domestic production emissions but also those emissions embedded in imported goods, thus offering a broader perspective on the environmental impacts of a country's consumption patterns. CBA calculations utilize the carbon intensity matrix derived from PBA data, adjusting for trade and consumption patterns across national borders. The CBA for a nation can be calculated using the equation:
+
+\begin{equation}
+    {GHG_{CBA}} = S \cdot L \cdot Y
+    \label{eq:SLY}
+    \end{equation}
+
+Here, $S$ represents the matrix of sector-specific carbon intensities, $L$ denotes the Leontief inverse matrix reflecting inter-industry relationships, and $Y$ symbolizes the final demand vector. This formula integrates the direct and indirect carbon emissions associated with both domestic and imported products, capturing the full spectrum of consumption-related emissions.
+
+These methodologies, PBA and CBA, offer distinct yet complementary insights into the carbon footprint of nations. PBA provides clarity on the responsibility of producers for their emissions, while CBA emphasizes the role of consumers in driving emissions through their consumption choices. Understanding these differences is crucial for designing targeted climate policies that can effectively address the specific needs and roles of different economic actors in mitigating global climate change.
+      
+
+\section{No Trade Scenarios Construction}
+To comprehensively evaluate the effects of trade on resource utilization and environmental outcomes,this analysis advances the traditional input-output model by integrating novel intensity metrics for evaluating factor consumption in trade-absent scenarios. These adjustments are predicated on the economic principles delineated in the value-based Multi-Regional Input-Output (MRIO) model, allowing for a nuanced understanding of economic dependencies.
+
+In the absence of international trade, nations are compelled to rely solely on domestic capabilities to meet their consumption needs, a scenario we define as Domestic Production Substitute (DPS). Mathematically, this scenario is represented by modifying the sectoral carbon intensity matrix $S$ in the standard input-output equation:
+\begin{equation}
+GHG_{DPS} = S_{dom} \cdot L \cdot Y
+\label{eq:DPS}
+\end{equation}
+Here, $S_{dom}$ replaces $S_{exp}$ (the carbon intensity matrix of the exporting country) with $S_{imp}$ (the domestic carbon intensity matrix of the importing country). This substitution reflects a shift from global to domestic production, underpinning the increased use of local resources and technologies.
+
+Building on this, we propose a more sophisticated method termed Global Production Share Redistribution (GPSR, also refered as gaming scenario), which extends beyond mere substitution by reallocating the trade gap based on the global production shares. This approach adjusts the sectoral carbon intensity $S$ by considering the global greenhouse gas emissions and output, excluding the original exporting countries:
+\begin{equation}
+GHG_{GPSR} = S_{global} \cdot L \cdot Y
+\label{eq:GPSR}
+\end{equation}
+In this formulation, $S_{global}$ is derived by aggregating the GHG emissions and production outputs globally, excluding those of the original exporter, thereby offering a reconfigured intensity matrix that reflects a more equitable distribution of production responsibilities across the global economy.
+
+The GPSR methodology is inspired by game-theoretic principles, particularly the Nash equilibrium, where the strategic redistribution of production tasks among nations mirrors the cooperative and competitive dynamics observed in global trade. This innovative approach not only addresses the immediate void left by suspended trade relations but also promotes a balanced reallocation of economic activities, ensuring that the global production landscape adapts dynamically to changes in trade patterns.
+
+Through the application of these methodologies, this study not only investigates the direct implications of a trade-absent world but also elucidates how strategic economic adjustments can mitigate the potential adverse effects on global resource consumption and carbon emissions. The introduction of GPSR showcases a novel integration of economic theory into environmental policy analysis, providing a robust framework for assessing the impacts of international trade on global sustainability.
+
+\section{Data Collection}
+The assembly of extensive datasets constitutes an essential foundation for this study, comprising global input-output tables, socio-economic statistics, and environmental records. Among the various multi-regional input-output (MRIO) databases available, each offers distinct benefits and limitations. Notably, the World Input-Output Database (WIOD) (\supercitet{timmer2015illustrated}) provides data consistent with national accounts and is widely used to explore the socio-economic and environmental effects of international trade (\supercitet{RN159}). Despite its extensive application, WIOD's sectoral resolution is less detailed compared to Exiobase3 (\supercitet{stadler_2017_1040821}), which offers greater granularity necessary for this analysis.
+
+Exiobase3 has been selected as the primary database due to its comprehensive sectoral detail, crucial for accurate research on semiconductor-related industries. It features an exhaustive classification system that facilitates precise scenario analysis and a nuanced understanding of trade dynamics. Additionally, Exiobase3 covers data from 2000 to 2022, a period marked by significant global trade developments, including China's entry into the WTO and the 2008 financial crisis, both of which have reshaped the international trade landscape.
+
+For this study, data acquisition was executed using the pymrio library, which offers streamlined access to Exiobase3 datasets. Due to the latest data availability only up to the year 2022, the period from 2000 to 2022 was selected for analysis. Specifically, the greenhouse gas (GHG) data employed in this research correspond to the ``GHG emissions (GWP100) | Problem oriented approach: baseline (CML, 2001) | GWP100 (IPCC, 2007)'' from Exiobase's impacts account. We utilized the ``pxp'' (product by product) matrix instead of the ``ixi'' (industry by industry), as the former provides a more detailed and accurate snapshot of product-specific data, crucial for identifying trends and specifics within the semiconductor industry. This selection enhances the precision of the environmental impact assessments, allowing for a more targeted exploration of semiconductor trade's influence on global GHG emissions.
+
+In alignment with the principles of transparency and reproducibility, this study embraces the ethos of open science by making the entirety of the computational code publicly available. By sharing the methodologies and scripts employed in the analyses, we aim to facilitate the replication of my findings and encourage further research in this critical area. The codebase includes detailed scripts for data manipulation, environmental impact calculations, and the scenario analysis conducted using the Exiobase3 database. Interested scholars and practitioners can access the source code and data results calculated at the following repository: Trade-and-Environmental-Implications-of-the-Chinese-and-American-Semiconductor-Sectors\footnote{Access the complete source code used in this study at \url{https://github.com/milaogou/Trade-and-Environmental-Implications-of-the-Chinese-and-American-Semiconductor-Sectors}}. This initiative underscores my commitment to contributing to a collaborative and transparent academic community.
+
+The datasets enumerated in Appendix C, as referenced through \ref{appendixC}, form the empirical backbone of this thesis, providing the quantitative data necessary to evaluate the environmental impacts of international trade, particularly focusing on the semiconductor industry. These datasets encompass a range of metrics from carbon emissions under different accounting principles (CBA and PBA) to the potential uplift in emissions under hypothetical no-trade scenarios over two decades. The detailed annual records of carbon stressors help in tracing the trajectory of emissions intensity across sectors and over time, offering a granular insight into how trade activities correlate with environmental outputs. The specific files on 'gamed' carbon uplift scenarios incorporate strategic adjustments in trade patterns, offering a nuanced understanding of how deliberate policy interventions could potentially mitigate adverse environmental impacts. Collectively, these datasets enable a comprehensive analysis of trade-environment dynamics, supporting the thesis' exploration of the complex interplay between global economic practices and their sustainability implications.

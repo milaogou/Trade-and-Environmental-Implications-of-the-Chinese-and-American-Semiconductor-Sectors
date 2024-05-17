@@ -1,0 +1,41 @@
+\hypersetup {hidelinks}
+\contentsline {chapter}{Abstract}{I}{chapter*.1}%
+\contentsline {chapter}{摘\hskip 1em\relax 要}{III}{chapter*.2}%
+\contentsline {chapter}{\numberline {Chapter\ 1\hspace {.3em}}Introduction}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.\hspace {1bp}1}Reseach Background}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.\hspace {1bp}2}Research Content}{3}{section.1.2}%
+\contentsline {section}{\numberline {1.\hspace {1bp}3}Research Significance}{5}{section.1.3}%
+\contentsline {section}{\numberline {1.\hspace {1bp}4}Thesis Structure}{6}{section.1.4}%
+\contentsline {chapter}{\numberline {Chapter\ 2\hspace {.3em}}Literature Review}{10}{chapter.2}%
+\contentsline {section}{\numberline {2.\hspace {1bp}1}Environmental Consequences of Trade: Insights from Input-Output Analysis}{10}{section.2.1}%
+\contentsline {section}{\numberline {2.\hspace {1bp}2}Trade Frictions and Environmental Outcomes: A Dualistic Evaluation}{10}{section.2.2}%
+\contentsline {section}{\numberline {2.\hspace {1bp}3}Semiconductor Trade and Environmental Dynamics: A Critical Inquiry}{11}{section.2.3}%
+\contentsline {section}{\numberline {2.\hspace {1bp}4}Global Production-Based Redistribution: A New Paradigm in Trade Impact Analysis}{12}{section.2.4}%
+\contentsline {chapter}{\numberline {Chapter\ 3\hspace {.3em}}Methodology and Data}{15}{chapter.3}%
+\contentsline {section}{\numberline {3.\hspace {1bp}1}Trade-Related Variables Calculation: MRIO Model}{15}{section.3.1}%
+\contentsline {section}{\numberline {3.\hspace {1bp}2}Carbon Footprint Calcalation}{17}{section.3.2}%
+\contentsline {section}{\numberline {3.\hspace {1bp}3}No Trade Scenarios Construction}{18}{section.3.3}%
+\contentsline {section}{\numberline {3.\hspace {1bp}4}Data Collection}{20}{section.3.4}%
+\contentsline {chapter}{\numberline {Chapter\ 4\hspace {.3em}}Emprical Results}{22}{chapter.4}%
+\contentsline {section}{\numberline {4.\hspace {1bp}1}Global Carbon Emissions in International Trade by Countries}{23}{section.4.1}%
+\contentsline {subsection}{\numberline {4.\hspace {1bp}1.\hspace {1bp}1}Comparison between PBA and CBA Carbon Emission}{23}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.\hspace {1bp}1.\hspace {1bp}2}Carbon Uplift in No Trade Scenario}{25}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.\hspace {1bp}1.\hspace {1bp}3}Carbon Uplift in No Sino-US Trade Scenario}{28}{subsection.4.1.3}%
+\contentsline {subsection}{\numberline {4.\hspace {1bp}1.\hspace {1bp}4}Carbon Uplift in No Sino-US with Gaming Trade Scenario}{32}{subsection.4.1.4}%
+\contentsline {section}{\numberline {4.\hspace {1bp}2}How does Semi-conductor Related Products Trade Impact Global Carbon Emissions}{34}{section.4.2}%
+\contentsline {subsection}{\numberline {4.\hspace {1bp}2.\hspace {1bp}1}Carbon Uplift in No Semi-conductor Related Products Trade Scenario}{34}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.\hspace {1bp}2.\hspace {1bp}2}Carbon Uplift in No Sino-US Semi-conductor Related Products Trade Scenario}{37}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.\hspace {1bp}2.\hspace {1bp}3}Carbon Uplift in No Sino-US Semi-conductor Related Products Trade with Gaming Scenario}{39}{subsection.4.2.3}%
+\contentsline {section}{\numberline {4.\hspace {1bp}3}Comparison of Global Carbon Stressors}{44}{section.4.3}%
+\contentsline {subsection}{\numberline {4.\hspace {1bp}3.\hspace {1bp}1}Rank of Carbon Stressors in 2022}{44}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.\hspace {1bp}3.\hspace {1bp}2}Carbon Stressor Trends (2000-2022)}{46}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.\hspace {1bp}3.\hspace {1bp}3}Carbon Stressor in Different Sectors 2022}{47}{subsection.4.3.3}%
+\contentsline {chapter}{\numberline {Chapter\ 5\hspace {.3em}}Conclusions and Policy Recommendations}{50}{chapter.5}%
+\contentsline {section}{\numberline {5.\hspace {1bp}1}Conclusions}{50}{section.5.1}%
+\contentsline {section}{\numberline {5.\hspace {1bp}2}Policy Recommendations}{51}{section.5.2}%
+\contentsline {chapter}{References}{54}{chapter*.21}%
+\contentsline {chapter}{Appendix}{56}{chapter*.22}%
+\contentsline {section}{\numberline {Appendix\hspace {1ex}A}Semiconductivity Related Products}{56}{section.A}%
+\contentsline {section}{\numberline {Appendix\hspace {1ex}B}ISO 3166-1 Codes and Countries}{58}{section.B}%
+\contentsline {section}{\numberline {Appendix\hspace {1ex}C}Data File Introduction}{61}{section.C}%
+\contentsfinish 

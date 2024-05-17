@@ -1,0 +1,1866 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{none/global//global/global}
+  \entry{RN123}{article}{}
+    \name{author}{2}{}{%
+      {{hash=CBR}{%
+         family={Copeland},
+         familyi={C\bibinitperiod},
+         given={B.\bibnamedelima R.},
+         giveni={B\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=TMS}{%
+         family={Taylor},
+         familyi={T\bibinitperiod},
+         given={M.\bibnamedelima S.},
+         giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CBR+1}
+    \strng{fullhash}{CBRTMS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1257/002205104773558047
+    \endverb
+    \field{issn}{0022-0515}
+    \field{note}{Times Cited: 1161 6 1277 12 324}
+    \field{number}{1}
+    \field{pages}{7\bibrangedash 71}
+    \field{title}{Trade, growth, and the environment}
+    \verb{url}
+    \verb <Go to ISI>://WOS:000220954900001
+    \endverb
+    \field{volume}{42}
+    \field{type}{Journal Article}
+    \field{journaltitle}{Journal of Economic Literature}
+    \field{year}{2004}
+  \endentry
+
+  \entry{RN166}{article}{}
+    \name{author}{2}{}{%
+      {{hash=WQ}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Qiang},
+         giveni={Q\bibinitperiod},
+      }}%
+      {{hash=ZF}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Fuyu},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WQ+2}
+    \strng{fullhash}{WQZF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    The current rise of protectionism has become the main uncertainty associated with global energy, economy, and the environment. Furthermore, the decoupling carbon emissions from economic growth is crucial for implementing Intended Nationally Determined Contributions (INDCs). These INDCs would be discounted if decreasing carbon emissions would require sacrificing economic growth. This study explored the effect of protectionism (by measuring trade openness based on available data) on the decoupling carbon emissions from economic growth. For this, the heterogenous effects of trade openness on carbon emissions were investigated using in data of 182 countries from 1990 to 2015. The results show that trade openness decreased carbon emissions in high-income and upper-middle-income countries, while having no significant impact on carbon emissions of lower-middle-income countries; even worse, for low-income countries, trade openness increased carbon emissions. The heterogeneous effects of trade openness on carbon emissions indicate that trade openness positively impacts the decoupling economic growth from carbon emission in rich countries, but negatively impacts poor countries. In addition, increasing individual incomes and population distort the decoupling economic growth from carbon emissions. Renewable energy and high oil prices contributed to the decoupling economic growth from carbon emissions. These effects are similar in all countries. Targeted policy implications are presented that enable the decoupling economic growth from carbon emissions for countries with different income levels. (c) 2020 Elsevier Ltd. All rights reserved.%
+    }
+    \verb{doi}
+    \verb 10.1016/j.jclepro.2020.123838
+    \endverb
+    \field{issn}{0959-6526}
+    \field{note}{Times Cited: 313 Wang, Qiang/F-4618-2011 Wang, Qiang/0000-0002-8751-8093 1 319 69 654 1879-1786}
+    \field{title}{The effects of trade openness on decoupling carbon emissions from economic growth e Evidence from 182 countries}
+    \verb{url}
+    \verb <Go to ISI>://WOS:000613139700105
+    \endverb
+    \field{volume}{279}
+    \field{type}{Journal Article}
+    \field{journaltitle}{Journal of Cleaner Production}
+    \field{year}{2021}
+  \endentry
+
+  \entry{RN176}{article}{}
+    \name{author}{3}{}{%
+      {{hash=ZZ}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Zengkai},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=ZK}{%
+         family={Zhu},
+         familyi={Z\bibinitperiod},
+         given={Kunfu},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=HGJD}{%
+         family={Hewings},
+         familyi={H\bibinitperiod},
+         given={Geoffrey J.\bibnamedelima D.},
+         giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ZZ+1}
+    \strng{fullhash}{ZZZKHGJD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    Pollution haven hypothesis is an important debate on the environmental effects of international trade, the pattern of which has been reshaped obviously by global production fragmentation recently. The production process is distributed globally, and the pollution haven effect of international trade is becoming more complicated. For instance, intermediate product trade corresponds to the largest share of embodied emissions, and the share of emissions induced by the global value chain related trade is increasing gradually. The aim of this paper is to make a comprehensive analysis on the pollution haven hypothesis in carbon emissions embodied in three different trade patterns from global, bilateral, and national perspectives. We propose a method to parcel the pollution haven hypothesis in a multi-regional input-output analysis and discuss the contribution of production fragmentation for global emissions. It is found that international production fragmentation generates global emissions savings. The intermediate product trade has a negative balance of avoided emissions. The final product trade becomes increasingly less environmentally effective during the period 1995-2009. There are significant differences in the environmental effects of different trade patterns for each country. (C) 2017 Published by Elsevier B.V.%
+    }
+    \verb{doi}
+    \verb 10.1016/j.eneco.2017.03.007
+    \endverb
+    \field{issn}{0140-9883}
+    \field{note}{Times Cited: 139 Hewings, Geoffrey John Dennis/B-2058-2014 Hewings, Geoffrey John Dennis/0000-0003-2560-3273 0 144 14 171 1873-6181}
+    \field{pages}{13\bibrangedash 23}
+    \field{title}{A multi-regional input-output analysis of the pollution haven hypothesis from the perspective of global production fragmentation}
+    \verb{url}
+    \verb <Go to ISI>://WOS:000404704900002
+    \endverb
+    \field{volume}{64}
+    \field{type}{Journal Article}
+    \field{journaltitle}{Energy Economics}
+    \field{year}{2017}
+  \endentry
+
+  \entry{RN133}{article}{}
+    \name{author}{2}{}{%
+      {{hash=KO}{%
+         family={Kuik},
+         familyi={K\bibinitperiod},
+         given={O.},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=GR}{%
+         family={Gerlagh},
+         familyi={G\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KO+1}
+    \strng{fullhash}{KOGR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    This paper examines the effect of trade liberalization on carbon leakage. We present quantitative estimates of carbon leakage under the Kyoto Protocol with and without freer trade by means of import tariff reductions agreed to in the Uruguay Round of multilateral trade negotiations. We find that under a plausible range of assumptions, the implementation of these import tariff reductions increases the overall rate of leakage, suggesting that previous studies may structurally have underestimated the rate of carbon leakage under the Kyoto Protocol. But we also find that the costs of abating the trade-induced leakage are modest relative to the welfare gains of freer trade. Analysis of the trade-induced carbon leakage shows large differences between leakage caused by reductions of import tariffs on energy goods and by reductions of import tariffs on non-energy goods. It also shows large differences in emission responses among developing country regions.%
+    }
+    \field{issn}{0195-6574}
+    \field{note}{Times Cited: 85 Annual ASSA/AEA Conference Jan 04-06, 2002 Atlanta, georgia Assa; aea Kuik, Onno J./K-9530-2013 Kuik, Onno J./0000-0001-7495-2934 0 89 23}
+    \field{number}{3}
+    \field{pages}{97\bibrangedash 120}
+    \field{title}{Trade liberalization and carbon leakage}
+    \verb{url}
+    \verb <Go to ISI>://WOS:000184119400004
+    \endverb
+    \field{volume}{24}
+    \field{type}{Journal Article}
+    \field{journaltitle}{Energy Journal}
+    \field{year}{2003}
+  \endentry
+
+  \entry{RN161}{article}{}
+    \name{author}{11}{}{%
+      {{hash=WH}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Haikun},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=ZY}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Yanxu},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=ZH}{%
+         family={Zhao},
+         familyi={Z\bibinitperiod},
+         given={Hongyan},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=LX}{%
+         family={Lu},
+         familyi={L\bibinitperiod},
+         given={Xi},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=ZY}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Yanxia},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=ZW}{%
+         family={Zhu},
+         familyi={Z\bibinitperiod},
+         given={Weimo},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=NCP}{%
+         family={Nielsen},
+         familyi={N\bibinitperiod},
+         given={Chris\bibnamedelima P.},
+         giveni={C\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=LX}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={Xin},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=ZQ}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Qiang},
+         giveni={Q\bibinitperiod},
+      }}%
+      {{hash=BJ}{%
+         family={Bi},
+         familyi={B\bibinitperiod},
+         given={Jun},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=MMB}{%
+         family={McElroy},
+         familyi={M\bibinitperiod},
+         given={Michael\bibnamedelima B.},
+         giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WH+1}
+    \strng{fullhash}{WHZYZHLXZYZWNCPLXZQBJMMB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    Recent studies show that international trade affects global distributions of air pollution and public health. Domestic interprovincial trade has similar effects within countries, but has not been comprehensively investigated previously. Here we link four models to evaluate the effects of both international exports and interprovincial trade on PM2.5 pollution and public health across China. We show that 50-60% of China's air pollutant emissions in 2007 were associated with goods and services consumed outside of the provinces where they were produced. Of an estimated 1.10 million premature deaths caused by PM2.5 pollution throughout China, nearly 19% (208,500 deaths) are attributable to international exports. In contrast, interprovincial trade leads to improved air quality in developed coastal provinces with a net effect of 78,500 avoided deaths nationwide. However, both international export and interprovincial trade exacerbate the health burdens of air pollution in China's less developed interior provinces. Our results reveal trade to be a critical but largely overlooked consideration in effective regional air quality planning for China.%
+    }
+    \verb{doi}
+    \verb 10.1038/s41467-017-00918-5
+    \endverb
+    \field{issn}{2041-1723}
+    \field{note}{Times Cited: 122 Zhang, Yanxia/A-9840-2018; zhang, qiang/HZJ-9551-2023; Wang, Haikun/A-3590-2011; Zhang, Qiang/D-9034-2012; Zhang, Yanxu/H-6165-2016; Zhang, Qiang/IWU-5000-2023 Zhang, Yanxia/0000-0001-8315-5371; Wang, Haikun/0000-0002-2565-5543; 0 126 23 224}
+    \field{title}{Trade-driven relocation of air pollution and health impacts in China}
+    \verb{url}
+    \verb <Go to ISI>://WOS:000412052400005
+    \endverb
+    \field{volume}{8}
+    \field{type}{Journal Article}
+    \field{journaltitle}{Nature Communications}
+    \field{year}{2017}
+  \endentry
+
+  \entry{RN169}{article}{}
+    \name{author}{7}{}{%
+      {{hash=WZ}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Zhenyu},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=MJ}{%
+         family={Meng},
+         familyi={M\bibinitperiod},
+         given={Jing},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=ZH}{%
+         family={Zheng},
+         familyi={Z\bibinitperiod},
+         given={Heran},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=SS}{%
+         family={Shao},
+         familyi={S\bibinitperiod},
+         given={Shuai},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=WD}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Daoping},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=MZ}{%
+         family={Mi},
+         familyi={M\bibinitperiod},
+         given={Zhifu},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=GD}{%
+         family={Guan},
+         familyi={G\bibinitperiod},
+         given={Dabo},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WZ+1}
+    \strng{fullhash}{WZMJZHSSWDMZGD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    In India, rapid industrialization and reorganization of the global supply chain are driving economic growth, accompanied by increasing exports and carbon emissions. India is poised to succeed China as the next world manufactory, which will lead to huge emissions in the country. To formulate appropriate emission mitigation measures, it is necessary to further understand the temporal change in India's emissions at the sectoral level from both the production and consumption perspectives. However, existing studies that have estimated emissions in India have paid less attention to the link among original emitters, final producers and final consumers and to its temporal change. Based on an emission inventory compiled in this study, we trace emission flows from original emitters to final producers and then to final consumers through the international supply chain by using an environmentally extended multi-regional input-output model. This study finds that both production-based and consumption-based emissions in India increased constantly from 2000 to 2014, and production-based emissions had higher growth rates due to the increased coal share. The major receivers of India's exported emissions were developed countries (e.g., the European Union and the United States), while the main sources of India's imported emissions were developing countries (e.g., China and Russia). From 2011 to 2014, India's net exported emissions increased by 29.2% because of the decrease of imported emissions. Moreover, intermediate products (63% and 73.7%) were the major contributors to exported and imported emissions, most of which were embodied in manufacturing products (48.8% and 65.7%, respectively). Therefore, international cooperation to optimize the energy and trade structure and to improve energy efficiency can be effective in mitigating carbon emissions in India.%
+    }
+    \verb{doi}
+    \verb 10.1016/j.apenergy.2018.09.172
+    \endverb
+    \field{issn}{0306-2619}
+    \field{note}{Times Cited: 38 Zheng, Heran/GSE-6466-2022; Mi, Zhifu/P-1027-2019; Guan, Dabo/Y-2406-2019; Meng, Jing/J-9740-2013; shao, shuai/T-5404-2019; Wang, Daoping/ABE-9123-2020; Shao, Shuai/; Zhenyu, Wang/; Wang, Daoping/ Zheng, Heran/0000-0003-0818-7933; Mi, Zhifu/0000-0001-8106-0694; Guan, Dabo/0000-0003-3773-3403; Meng, Jing/0000-0001-8708-0485; Wang, Daoping/0000-0001-5221-4965; Shao, Shuai/0000-0002-9525-6310; Zhenyu, Wang/0000-0002-1330-878X; Wang, Daoping/0000-0002-4456-7434 0 38 11 90 1872-9118}
+    \field{pages}{914\bibrangedash 925}
+    \field{title}{Temporal change in India's imbalance of carbon emissions embodied in international trade}
+    \verb{url}
+    \verb <Go to ISI>://WOS:000452345400069
+    \endverb
+    \field{volume}{231}
+    \field{type}{Journal Article}
+    \field{journaltitle}{Applied Energy}
+    \field{year}{2018}
+  \endentry
+
+  \entry{RN160}{article}{}
+    \name{author}{2}{}{%
+      {{hash=VT}{%
+         family={Voituriez},
+         familyi={V\bibinitperiod},
+         given={Tancrede},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=WX}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Xin},
+         giveni={X\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{VT+1}
+    \strng{fullhash}{VTWX1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    This article addresses the implications and remaining challenges behind the seemingly happy ending of the recent EU-China trade dispute on solar products. First, the EU's choice of a specific trade defence measure-anti-dumping-was based on shaky arguments. Second, further trade disputes on green goods are very likely, in particular because China is increasingly implementing domestic support policies on green sectors, bringing down Chinese export prices. Third, trade defence measures could be adopted as an expensive option. Alternatively to this, the EU and China could consider setting up constructive and preventive mechanisms in order to stabilize trade and broaden their economic relationship.Policy relevanceIn July 2013 the EU accepted an undertaking by Chinese solar wafer, cell, and module manufacturers to fix minimum import prices for their products, along with a volume cap to be imposed on Chinese solar exports to the EU. In spite of the seemingly happy end of a trade dispute between the two major players in the renewables sector, we show that the possibility of trade disputes over low-carbon products in the near future cannot be ruled out. Drawing on the China-EU photovoltaic dumping case', we highlight some weaknesses in the EU's choice to resort to anti-dumping measures and emphasize the urgent need to invent new forms of trade dialogues between the EU and China as first-choice trade dispute settlement policies.%
+    }
+    \verb{doi}
+    \verb 10.1080/14693062.2015.1009868
+    \endverb
+    \field{issn}{1469-3062}
+    \field{note}{Times Cited: 21 0 24 4 41 1752-7457}
+    \field{number}{5}
+    \field{pages}{670\bibrangedash 677}
+    \field{title}{Real challenges behind the EU-China PV trade dispute settlement}
+    \verb{url}
+    \verb <Go to ISI>://WOS:000359350700007
+    \endverb
+    \field{volume}{15}
+    \field{type}{Journal Article}
+    \field{journaltitle}{Climate Policy}
+    \field{year}{2015}
+  \endentry
+
+  \entry{RN143}{article}{}
+    \name{author}{4}{}{%
+      {{hash=LY}{%
+         family={Long},
+         familyi={L\bibinitperiod},
+         given={Yin},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=GD}{%
+         family={Guan},
+         familyi={G\bibinitperiod},
+         given={Dabo},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=KK}{%
+         family={Kanemoto},
+         familyi={K\bibinitperiod},
+         given={Keiichiro},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=GA}{%
+         family={Gasparatos},
+         familyi={G\bibinitperiod},
+         given={Alexandros},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LY+1}
+    \strng{fullhash}{LYGDKKGA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    The rapid and extensive changes in household consumption patterns during the coronavirus disease 2019 (COVID-19) pandemic can serve as a natural experiment for exploring the environmental outcomes of changing human behavior. Here, we assess the carbon footprint of household consumption in Japan during the early stages of the COVID-19 pandemic (January-May 2020), which were characterized by moderate confinement measures. The associated lifestyle changes did not have a significant effect on the overall household carbon footprint compared with 2015-2019 levels. However, there were significant trade-offs between individual consumption categories such that the carbon footprint increased for some categories (e.g., eating at home) or declined (e.g., eating out, transportation, clothing, and entertainment) or remained relatively unchanged (e.g., housing) for others. Furthermore, carbon footprint patterns between age groups were largely consistent with 2015-2019 levels. However, changes in food-related carbon footprints were visible for all age groups since March and, in some cases, since February.%
+    }
+    \verb{doi}
+    \verb 10.1016/j.oneear.2021.03.003
+    \endverb
+    \field{issn}{2590-3330}
+    \field{note}{Times Cited: 11 Kanemoto, Keiichiro/O-9633-2016; Guan, Dabo/Y-2406-2019; Gasparatos, Alexandros/AAT-4403-2020; Gasparatos, Alexandros/; Long, Yin/ Kanemoto, Keiichiro/0000-0003-0230-9020; Guan, Dabo/0000-0003-3773-3403; Gasparatos, Alexandros/0000-0001-9323-1366; Long, Yin/0000-0002-6761-9735 0 12 6 40 2590-3322}
+    \field{number}{4}
+    \field{pages}{553\bibrangedash 564}
+    \field{title}{Negligible impacts of early COVID-19 confinement on household carbon footprints in Japan}
+    \verb{url}
+    \verb <Go to ISI>://WOS:000646480700013
+    \endverb
+    \field{volume}{4}
+    \field{type}{Journal Article}
+    \field{journaltitle}{One Earth}
+    \field{year}{2021}
+  \endentry
+
+  \entry{RN111}{article}{}
+    \name{author}{4}{}{%
+      {{hash=WQ}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Q.},
+         giveni={Q\bibinitperiod},
+      }}%
+      {{hash=JF}{%
+         family={Jiang},
+         familyi={J\bibinitperiod},
+         given={F.},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=LR}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=WX}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={X.},
+         giveni={X\bibinitperiod},
+      }}%
+    }
+    \keyw{Data envelopment analysis Environmental efficiency Input-output model Trade protectionism}
+    \strng{namehash}{WQ+1}
+    \strng{fullhash}{WQJFLRWX1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    Past studies related to embodied pollutant accounting reported that free trade has increased the environmental pollution of developing economies, because the developed countries "outsource" their pollutants to developing nations. The COVID-19 pandemic has stimulated the rise of the most serious protectionism after World War II. This study is aimed to discuss whether protectionism improve the environment in developing countries by developing a comprehensive evaluation model, which integrates multi-regional input-output (MRIO), data envelopment analysis (DEA), and scenario analysis. We revealed the role of protectionism from two perspectives: the single impact on pollutant emissions and the comprehensive impact on environmental efficiency. Specifically, the capital inputs, labor inputs, energy consumption, economic output, carbon dioxide, sulfur dioxide and nitrogen oxides emissions related to global trade activities were simulated based on the MRIO. And then, sector-level trade environmental efficiency was computed by intergrading the MRIO and DEA using a non-radial directional distance function. Finally, the environmental efficiency of both developing and developed countries under two scenarios with and without trade were estimated. The results confirmed that trade has increased the CO(2), SO(2) and NO(X) emissions of developing economies by 12.9%, 9.8% and 12.3%, and has reduced that of developed economies by 6.0%, 29.4% and 21.2%, respectively. However, the results also uncovered that the environmental efficiency of developing and developed economies was dropped by 3% and 5%, respectively, under no-trade scenario. We contend that protectionism is not conducive to the sustainable development of developing countries because it lowers their environmental efficiency, although it may reduce their territorial pollutant emissions. For developed countries, the single impact of protectionism on pollutant emission reduction and the comprehensive impact on environmental efficiency are both negative.%
+    }
+    \verb{doi}
+    \verb 10.1016/j.spc.2022.01.011
+    \endverb
+    \field{issn}{2352-5509 (Electronic) 2352-5509 (Linking)}
+    \field{note}{Wang, Qiang Jiang, Feng Li, Rongrong Wang, Xiaowei eng Netherlands 2022/03/01 Sustain Prod Consum. 2022 Mar;30:851-869. doi: 10.1016/j.spc.2022.01.011. Epub 2022 Jan 19.}
+    \field{pages}{851\bibrangedash 869}
+    \field{title}{Does protectionism improve environment of developing countries? A perspective of environmental efficiency assessment}
+    \verb{url}
+    \verb https://www.ncbi.nlm.nih.gov/pubmed/37275511
+    \endverb
+    \field{volume}{30}
+    \field{type}{Journal Article}
+    \field{journaltitle}{Sustain Prod Consum}
+    \field{year}{2022}
+  \endentry
+
+  \entry{RN180}{article}{}
+    \name{author}{8}{}{%
+      {{hash=LZ}{%
+         family={Liu},
+         familyi={L\bibinitperiod},
+         given={Zhu},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=DZ}{%
+         family={Deng},
+         familyi={D\bibinitperiod},
+         given={Zhu},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=HG}{%
+         family={He},
+         familyi={H\bibinitperiod},
+         given={Gang},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=WH}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Hailin},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=ZX}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Xian},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=LJ}{%
+         family={Lin},
+         familyi={L\bibinitperiod},
+         given={Jiang},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=QY}{%
+         family={Qi},
+         familyi={Q\bibinitperiod},
+         given={Ye},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=LX}{%
+         family={Liang},
+         familyi={L\bibinitperiod},
+         given={Xi},
+         giveni={X\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LZ+1}
+    \strng{fullhash}{LZDZHGWHZXLJQYLX1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1038/s43017-021-00244-x
+    \endverb
+    \field{issn}{2662-138X}
+    \field{number}{2}
+    \field{pages}{141\bibrangedash 155}
+    \field{title}{Challenges and opportunities for carbon neutrality in China}
+    \field{volume}{3}
+    \field{type}{Journal Article}
+    \field{journaltitle}{Nature Reviews Earth \& Environment}
+    \field{year}{2021}
+  \endentry
+
+  \entry{RN119}{article}{}
+    \name{author}{2}{}{%
+      {{hash=CS}{%
+         family={Casler},
+         familyi={C\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=WS}{%
+         family={Wilbur},
+         familyi={W\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CS+1}
+    \strng{fullhash}{CSWS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1016/0165-0572(84)90016-1
+    \endverb
+    \field{issn}{0165-0572}
+    \field{note}{Times Cited: 70 0 79 14}
+    \field{number}{2}
+    \field{pages}{187\bibrangedash 201}
+    \field{title}{ENERGY INPUT OUTPUT ANALYSIS - A SIMPLE GUIDE}
+    \verb{url}
+    \verb <Go to ISI>://WOS:A1984TK31700005
+    \endverb
+    \field{volume}{6}
+    \field{type}{Journal Article}
+    \field{journaltitle}{Resources and Energy}
+    \field{year}{1984}
+  \endentry
+
+  \entry{RN158}{article}{}
+    \name{author}{4}{}{%
+      {{hash=TX}{%
+         family={Tian},
+         familyi={T\bibinitperiod},
+         given={Xu},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=GY}{%
+         family={Geng},
+         familyi={G\bibinitperiod},
+         given={Yong},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Sarkis},
+         familyi={S\bibinitperiod},
+         given={Joseph},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=ZS}{%
+         family={Zhong},
+         familyi={Z\bibinitperiod},
+         given={Shaozhuo},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TX+1}
+    \strng{fullhash}{TXGYSJZS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    Trade plays an important role in redistributing resources and also brings significant environmental impacts to involved countries. This relatively complex research domain of international trade and environmental burden shifts is informed through study of embodied environmental flows of products. Research trends to identify features of international trade embodied flows between 1997 and 2016 are determined through a bibliometric study. Research contribution of countries, authors, institutions and journals are described. Co-citation and network analyses are completed. Results show that there has been significant research interest increase on this topic. Given the interdisciplinary and global nature of this topic, increases in countries, author, and institutional collaborations has occurred. USA, China, the Netherlands, the United Kingdom and Norway were the top 5 countries with high academic influence, and country as USA and institution as Chinese Academy of Sciences has the largest number of collaborations, respectively. Embodied flows such as carbon emission and water are popular ones associated with international trade in the given period, and the most popular methodological tool is Input/Output Analysis. In addition, hotspots which extracted from keywords are analyzed, additional avenues of research are also discussed in this study.%
+    }
+    \verb{doi}
+    \verb 10.1016/j.resconrec.2018.01.002
+    \endverb
+    \field{issn}{0921-3449}
+    \field{note}{Times Cited: 63 Tian, Xu/AAX-7334-2020; Sarkis, Joseph/F-4508-2014; Geng, Yong/B-6310-2018; Tian, Xu/ Sarkis, Joseph/0000-0003-0143-804X; Geng, Yong/0000-0002-2284-1375; Tian, Xu/0000-0003-3265-5725 0 67 13 130 1879-0658}
+    \field{pages}{148\bibrangedash 157}
+    \field{title}{Trends and features of embodied flows associated with international trade based on bibliometric analysis}
+    \verb{url}
+    \verb <Go to ISI>://WOS:000426411700013
+    \endverb
+    \field{volume}{131}
+    \field{type}{Journal Article}
+    \field{journaltitle}{Resources Conservation and Recycling}
+    \field{year}{2018}
+  \endentry
+
+  \entry{RN167}{article}{}
+    \name{author}{2}{}{%
+      {{hash=WQ}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Qiang},
+         giveni={Q\bibinitperiod},
+      }}%
+      {{hash=LY}{%
+         family={Liu},
+         familyi={L\bibinitperiod},
+         given={Yi},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WQ+2}
+    \strng{fullhash}{WQLY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    As a developing country, Indian energy scenario has perennially been plagued by problems like energy deficit, threats to energy security and low energy efficiency. Raising the supply of renewable energy is the key way for India to solve this dilemma. The formulation of effective renewable energy policies requires a comprehensive understanding of the evolution and drivers of the renewable energy consumption in India. Based on multi-regional input-output model (MRIO) and structural decomposition analysis (SDA), this study identified India's renewable energy consumption patterns and its transition drivers. The results shown that there was not much difference between the renewable energy consumption of India in the production-based and consumption-based, both of which were dominated by domestic consumption. However, the development of globalization had made the influence of international trade on India 's renewable energy consumption no longer negligible. Developing countries had gradually become the main destinations and sources of India's exported and imported renewable energy. From the perspective of driving force, in terms of domestic consumption, the upward influence of the unit growth of India's per capita final demand was weakening. As far as the renewable energy embodied in exports and imports, the energy intensity effect and the per capita final demand effect of developing countries had more contributions compared with developed countries. Therefore, India should attach more attention to the cooperation with developing countries in the field of renewable energy, and increase the efficiency and share of renewable energy consumption to offset the weakening of demand-driven. (C) 2020 Elsevier Ltd. All rights reserved.%
+    }
+    \verb{doi}
+    \verb 10.1016/j.jclepro.2020.124230
+    \endverb
+    \field{issn}{0959-6526}
+    \field{note}{Times Cited: 38 Wang, Qiang/F-4618-2011 Wang, Qiang/0000-0002-8751-8093 0 38 5 46 1879-1786}
+    \field{title}{India's renewable energy: New insights from multi-regional input output and structural decomposition analysis}
+    \verb{url}
+    \verb <Go to ISI>://WOS:000609031600013
+    \endverb
+    \field{volume}{283}
+    \field{type}{Journal Article}
+    \field{journaltitle}{Journal of Cleaner Production}
+    \field{year}{2021}
+  \endentry
+
+  \entry{RN171}{article}{}
+    \name{author}{1}{}{%
+      {{hash=WT}{%
+         family={Wiedmann},
+         familyi={W\bibinitperiod},
+         given={Thomas},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WT1}
+    \strng{fullhash}{WT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    The interest in consumption-based emission and resource accounting has grown significantly. Many studies juxtapose consumer emissions (carbon footprint) and producer (territorial) emissions of greenhouse gases in order to demonstrate the effects of trade on the national emission budget. To this end, a respectable number of studies have been undertaken worldwide in order to estimate emissions embedded in international trade of numerous countries and world regions. Input-output approaches, and increasingly multi-region input-output (MRIO) models, are commonly chosen as they provide an appropriate methodological framework for complete carbon footprint estimates at the national and supra-national level. With increasing processing capabilities of computers and a wider availability of economic accounts, environmental accounts and trade data such models are now being implemented on a wide scale. After a brief overview of salient single-region input-output studies I provide an in-depth review of the most recent multi-region input-output models used for the purpose of consumption-based environmental accounting. The main methodological features and important results are described for around twenty studies covering the years 2007 to 2009. This is followed by a detailed review of studies dealing with uncertainty in MRIO analysis, an area which has not received a lot of attention so far. I conclude that further research is mainly needed in two areas, a) improvements in data availability and quality and b) improvements in the accuracy of MRIO modelling. (C) 2009 Elsevier B.V. All rights reserved.%
+    }
+    \verb{doi}
+    \verb 10.1016/j.ecolecon.2009.08.026
+    \endverb
+    \field{issn}{0921-8009}
+    \field{note}{Times Cited: 628 Wiedmann, Thomas/C-9158-2011 Wiedmann, Thomas/0000-0002-6395-8887 3 693 29 444 1873-6106}
+    \field{number}{2}
+    \field{pages}{211\bibrangedash 222}
+    \field{title}{A review of recent multi-region input-output models used for consumption-based emission and resource accounting}
+    \verb{url}
+    \verb <Go to ISI>://WOS:000272871600001
+    \endverb
+    \field{volume}{69}
+    \field{type}{Journal Article}
+    \field{journaltitle}{Ecological Economics}
+    \field{year}{2009}
+  \endentry
+
+  \entry{RN154}{article}{}
+    \name{author}{5}{}{%
+      {{hash=SMS}{%
+         family={Simas},
+         familyi={S\bibinitperiod},
+         given={Moana\bibnamedelima S.},
+         giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=GL}{%
+         family={Golsteijn},
+         familyi={G\bibinitperiod},
+         given={Laura},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=HMAJ}{%
+         family={Huijbregts},
+         familyi={H\bibinitperiod},
+         given={Mark A.\bibnamedelima J.},
+         giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=WR}{%
+         family={Wood},
+         familyi={W\bibinitperiod},
+         given={Richard},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=HEG}{%
+         family={Hertwich},
+         familyi={H\bibinitperiod},
+         given={Edgar\bibnamedelima G.},
+         giveni={E\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SMS+1}
+    \strng{fullhash}{SMSGLHMAJWRHEG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    The extent to what bad labor conditions across the globe are associated with international trade is unknown. Here, we quantify the bad labor conditions associated with consumption in seven world regions, the "bad labor" footprint. In particular, we analyze how much occupational health damage, vulnerable employment, gender inequality, share of unskilled workers, child labor, and forced labor is associated with the production of internationally traded goods. Our results show that (i) as expected, there is a net flow of bad labor conditions from developing to developed regions; (ii) the production of exported goods in lower income regions contributes to more than half of the bad labor footprints caused by the wealthy lifestyles of affluent regions; (iii) exports from Asia constitute the largest global trade flow measured in the amount bad labor, while exports from Africa carry the largest burden of bad labor conditions per unit value traded and per unit of total labor required; and (IV) the trade of food products stands out in both volume and intensity of bad labor conditions.%
+    }
+    \verb{doi}
+    \verb 10.3390/su6117514
+    \endverb
+    \field{note}{Times Cited: 82 Hertwich, Edgar G/D-2169-2011; Simas, Moana/S-9276-2017; Wood, Richard/E-4111-2015; Golsteijn, Laura/C-4292-2011; Huijbregts, Mark/ABF-3842-2021; Simas, Moana/ Hertwich, Edgar G/0000-0002-4934-3421; Wood, Richard/0000-0002-7906-3324; Huijbregts, Mark/0000-0002-7037-680X; Simas, Moana/0000-0002-9308-2708 1 87 4 83 2071-1050}
+    \field{number}{11}
+    \field{pages}{7514\bibrangedash 7540}
+    \field{title}{The "Bad Labor" Footprint: Quantifying the Social Impacts of Globalization}
+    \verb{url}
+    \verb <Go to ISI>://WOS:000345564700003
+    \endverb
+    \field{volume}{6}
+    \field{type}{Journal Article}
+    \field{journaltitle}{Sustainability}
+    \field{year}{2014}
+  \endentry
+
+  \entry{RN172}{article}{}
+    \name{author}{5}{}{%
+      {{hash=XY}{%
+         family={Xiao},
+         familyi={X\bibinitperiod},
+         given={Yanyan},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=NCB}{%
+         family={Norris},
+         familyi={N\bibinitperiod},
+         given={Catherine\bibnamedelima Benoit},
+         giveni={C\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=LM}{%
+         family={Lenzen},
+         familyi={L\bibinitperiod},
+         given={Manfred},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=NG}{%
+         family={Norris},
+         familyi={N\bibinitperiod},
+         given={Gregory},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=MJ}{%
+         family={Murray},
+         familyi={M\bibinitperiod},
+         given={Joy},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{XY+1}
+    \strng{fullhash}{XYNCBLMNGMJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    Our study illustrates how consumer social risk footprints can assist in achieving the Sustainable Development Goals (SDGs). Combining the Social Hotspots Database (SHDB) and the Eora global multi-regional input-output table, we use input-output analysis to calculate a consumer social risk footprint (SF) of nations' imports. For our SFs, we select four indicators related to five of the UN's SDGs: gender equality (SDG 5 also 8.5 \& 8.8); mother and child health (SDG 3, especially 3.1 \& 3.2); governance (SDG 16, especially 16.5 \& 16.6); and access to clean water (SDG 6, especially 6.1 \& 62). After examining results for all four indicators we focus on gender equality to fully convey the value and limitations of using this method of analysis. Our study compares producer (domestic) social risk and consumer social risk footprints resulting from international trade patterns. Generally, developed countries show higher social risk footprints while developing countries show higher domestic social risks with the exceptions of UK and Ireland in the developed-world, and China and India in the developing-world. Details of the SFs associated with exported products worldwide reveal that Pakistan, Yemen and Iran have some of the highest SF risk, while Australia, Canada and Denmark are among the lowest. These results are important for the UN in developing partnerships to address the Sustainable Development Goals and for organisations such as the World Bank, Trade Unions and NGOs' work towards a fairer world. (C) 2017 Elsevier B.V. All rights reserved.%
+    }
+    \verb{doi}
+    \verb 10.1016/j.ecolecon.2016.12.003
+    \endverb
+    \field{issn}{0921-8009}
+    \field{note}{Times Cited: 40 Lenzen, Manfred/D-3161-2013; Lenzen, Manfred/ Lenzen, Manfred/0000-0002-0828-5288 0 43 2 84 1873-6106}
+    \field{pages}{55\bibrangedash 65}
+    \field{title}{How Social Footprints of Nations Can Assist in Achieving the Sustainable Development Goals}
+    \verb{url}
+    \verb <Go to ISI>://WOS:000395597700006
+    \endverb
+    \field{volume}{135}
+    \field{type}{Journal Article}
+    \field{journaltitle}{Ecological Economics}
+    \field{year}{2017}
+  \endentry
+
+  \entry{RN170}{article}{}
+    \name{author}{2}{}{%
+      {{hash=WT}{%
+         family={Wiedmann},
+         familyi={W\bibinitperiod},
+         given={Thomas},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=LM}{%
+         family={Lenzen},
+         familyi={L\bibinitperiod},
+         given={Manfred},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WT+1}
+    \strng{fullhash}{WTLM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    Globalization has led to an increasing geospatial separation of production and consumption, and, as a consequence, to an unprecedented displacement of environmental and social impacts through international trade. A large proportion of total global impacts can be associated with trade, and the trend is rising. Advances in global multi-region input-output models have allowed researchers to draw detailed, international supply-chain connections between harmful production in social and environmental hotspots and affluent consumption in global centres of wealth. The general direction of impact displacement is from developed to developing countries-an increase of health impacts in China from air pollution linked to export production for the United States being one prominent example. The relocation of production across countries counteracts national mitigation policies and may negate ostensible achievements in decoupling impacts from economic growth. A comprehensive implementation of the United Nations Sustainable Development Goals therefore requires the inclusion of footprint indicators to avoid loopholes in national sustainability assessments.%
+    }
+    \verb{doi}
+    \verb 10.1038/s41561-018-0113-9
+    \endverb
+    \field{issn}{1752-0894}
+    \field{note}{Times Cited: 463 Lenzen, Manfred/D-3161-2013; Wiedmann, Thomas/C-9158-2011; Lenzen, Manfred/ Wiedmann, Thomas/0000-0002-6395-8887; Lenzen, Manfred/0000-0002-0828-5288 0 483 65 649 1752-0908}
+    \field{number}{5}
+    \field{pages}{314\bibrangedash 321}
+    \field{title}{Environmental and social footprints of international trade}
+    \verb{url}
+    \verb <Go to ISI>://WOS:000431168900012
+    \endverb
+    \field{volume}{11}
+    \field{type}{Journal Article}
+    \field{journaltitle}{Nature Geoscience}
+    \field{year}{2018}
+  \endentry
+
+  \entry{RN127}{article}{}
+    \name{author}{2}{}{%
+      {{hash=DF}{%
+         family={Duchin},
+         familyi={D\bibinitperiod},
+         given={Faye},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=LMC}{%
+         family={Lopez-Morales},
+         familyi={L\bibinithyphendelim M\bibinitperiod},
+         given={Carlos},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DF+1}
+    \strng{fullhash}{DFLMC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    With growing demand for fresh water and uncertain supplies, there is an increasing concern about future water scarcity. Since most freshwater withdrawals are for agriculture, reliance on water embodied in imported food (trade in 'virtual water') is a possible strategy to provide food to water-stressed regions while conserving their scarce supply for other purposes. To evaluate this proposition, we extend a model of interregional trade by (1) defining endowments of water that cannot be exceeded, (2) allowing simultaneous operation of rainfed and irrigated agriculture, and (3) distinguishing sub-regional endowments within a larger economic region. An application to the Mexican economy compares region-specific water abundance with economic comparative advantage under alternative scenarios. We conclude that the water-rich regions of Mexico are relatively high-cost producers of food and that they do not pick up the slack even when the lowest-cost Mexican regions are constrained by binding water constraints.%
+    }
+    \verb{doi}
+    \verb 10.1080/09535314.2012.714746
+    \endverb
+    \field{issn}{0953-5314}
+    \field{note}{Times Cited: 33 López-Morales, Carlos A/AAM-6293-2020; Lopez Morales, Carlos Andres/ Lopez Morales, Carlos Andres/0000-0001-9296-7136 0 34 2 38 1469-5758}
+    \field{number}{4}
+    \field{pages}{371\bibrangedash 389}
+    \field{title}{DO WATER-RICH REGIONS HAVE A COMPARATIVE ADVANTAGE IN FOOD PRODUCTION? IMPROVING THE REPRESENTATION OF WATER FOR AGRICULTURE IN ECONOMIC MODELS}
+    \verb{url}
+    \verb <Go to ISI>://WOS:000311224600003
+    \endverb
+    \field{volume}{24}
+    \field{type}{Journal Article}
+    \field{journaltitle}{Economic Systems Research}
+    \field{year}{2012}
+  \endentry
+
+  \entry{RN164}{article}{}
+    \name{author}{2}{}{%
+      {{hash=WQ}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Qiang},
+         giveni={Q\bibinitperiod},
+      }}%
+      {{hash=HX}{%
+         family={Han},
+         familyi={H\bibinitperiod},
+         given={Xinyu},
+         giveni={X\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WQ+2}
+    \strng{fullhash}{WQHX1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    Trade boosts economic growth, but it increases carbon emissions embodied in trade. To achieve economic growth through trade without increasing carbon emissions, it is essential to determine the driving factors of economic growth and carbon emissions embodied in trade. This study uses the multi-regional input-output (MRIO), Tapio decoupling model, and structural decomposition analysis (SDA) to investigate the decoupling of carbon emissions embodied in the Sino-US trade and their driving factors. The results show that, first, the decoupling of carbon emissions embodied in China's exports to the US is relatively invariable and gradually improving. By contrast, the decoupling of carbon emissions embodied in the US exports to China is variable. Second, the effect of the intermediate product structure on carbon emissions embodied in the US export to China is higher than that of China's export to the US. Third, 5 industries in China that export to the US were in a strong decoupling state from 2013 to 2014, whereas knowledge-intensive manufacturing and service industries in the US that exports to China were in the best decoupling state. Fourth, the driving factors of carbon emissions embodied in trade between China's export to the US and the US export to China is similar, although the degrees of these drivers are different. This study does not only focus on the decoupling of carbon emissions embodied in the Sino-US trade but also provides a research framework for the decoupling of carbon emissions embodied in global trade, especially trade between developing and developed countries.%
+    }
+    \verb{doi}
+    \verb 10.1016/j.techfore.2021.120805
+    \endverb
+    \field{issn}{0040-1625}
+    \field{note}{Times Cited: 87 Wang, Qiang/F-4618-2011 Wang, Qiang/0000-0002-8751-8093 0 87 54 231 1873-5509}
+    \field{title}{Is decoupling embodied carbon emissions from economic output in Sino-US trade possible?}
+    \verb{url}
+    \verb <Go to ISI>://WOS:000661657800022
+    \endverb
+    \field{volume}{169}
+    \field{type}{Journal Article}
+    \field{journaltitle}{Technological Forecasting and Social Change}
+    \field{year}{2021}
+  \endentry
+
+  \entry{RN141}{article}{}
+    \name{author}{15}{}{%
+      {{hash=LJ}{%
+         family={Lin},
+         familyi={L\bibinitperiod},
+         given={Jintai},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=DM}{%
+         family={Du},
+         familyi={D\bibinitperiod},
+         given={Mingxi},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=CL}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={Lulu},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=FK}{%
+         family={Feng},
+         familyi={F\bibinitperiod},
+         given={Kuishuang},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=LY}{%
+         family={Liu},
+         familyi={L\bibinitperiod},
+         given={Yu},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=MRV}{%
+         family={Martin},
+         familyi={M\bibinitperiod},
+         given={Randall\bibnamedelima V.},
+         giveni={R\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+      {{hash=WJ}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Jingxu},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=NR}{%
+         family={Ni},
+         familyi={N\bibinitperiod},
+         given={Ruijing},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=ZY}{%
+         family={Zhao},
+         familyi={Z\bibinitperiod},
+         given={Yu},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=KH}{%
+         family={Kong},
+         familyi={K\bibinitperiod},
+         given={Hao},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=WH}{%
+         family={Weng},
+         familyi={W\bibinitperiod},
+         given={Hongjian},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=LM}{%
+         family={Liu},
+         familyi={L\bibinitperiod},
+         given={Mengyao},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=vDA}{%
+         prefix={van},
+         prefixi={v\bibinitperiod},
+         family={Donkelaar},
+         familyi={D\bibinitperiod},
+         given={Aaron},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=LQ}{%
+         family={Liu},
+         familyi={L\bibinitperiod},
+         given={Qiuyu},
+         giveni={Q\bibinitperiod},
+      }}%
+      {{hash=HK}{%
+         family={Hubacek},
+         familyi={H\bibinitperiod},
+         given={Klaus},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LJ+1}
+    \strng{fullhash}{LJDMCLFKLYMRVWJNRZYKHWHLMvDALQHK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    In a globalized economy, production of goods can be disrupted by trade disputes. Yet the resulting impacts on carbon dioxide emissions and ambient particulate matter (PM2.5) related premature mortality are unclear. Here we show that in contrast to a free trade world, with the emission intensity in each sector unchanged, an extremely anti-trade scenario with current tariffs plus an additional 25% tariff on each traded product would reduce the global export volume by 32.5%, gross domestic product by 9.0%, carbon dioxide by 6.3%, and PM2.5-related mortality by 4.1%. The respective impacts would be substantial for the United States, Western Europe and China. A freer trade scenario would increase global carbon dioxide emission and air pollution due to higher levels of production, especially in developing regions with relatively high emission intensities. Global collaborative actions to reduce emission intensities in developing regions could help achieve an economic-environmental win-win state through globalization.%
+    }
+    \verb{doi}
+    \verb 10.1038/s41467-019-12890-3
+    \endverb
+    \field{note}{Times Cited: 45 Chen, Lulu/GXF-3271-2022; Hubacek, Klaus/GVS-6444-2022; Wang, Jingxu/AAZ-8048-2021; Du, Mingxi/AAB-7265-2019; Chen, Lulu/AAV-2389-2021; Martin, Randall V/C-1205-2014; Feng, Kuishuang/Y-2541-2019; van Donkelaar, Aaron/AAF-8355-2021; Hubacek, Klaus/K-3500-2019; Lin, Jintai/A-8872-2012; Wang, Jingxu/ Hubacek, Klaus/0000-0003-2561-6090; Du, Mingxi/0000-0002-6831-4255; Chen, Lulu/0000-0002-8929-3414; Martin, Randall V/0000-0003-2632-8402; Lin, Jintai/0000-0002-2362-2940; Wang, Jingxu/0000-0002-5642-9880 0 47 19 112 2041-1723}
+    \field{title}{Carbon and health implications of trade restrictions}
+    \verb{url}
+    \verb <Go to ISI>://WOS:000493275600021
+    \endverb
+    \field{volume}{10}
+    \field{type}{Journal Article}
+    \field{journaltitle}{Nature Communications}
+    \field{year}{2019}
+  \endentry
+
+  \entry{RN142}{article}{}
+    \name{author}{5}{}{%
+      {{hash=LLJ}{%
+         family={Liu},
+         familyi={L\bibinitperiod},
+         given={Li-Jing},
+         giveni={L\bibinithyphendelim J\bibinitperiod},
+      }}%
+      {{hash=CF}{%
+         family={Creutzig},
+         familyi={C\bibinitperiod},
+         given={Felix},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=YYF}{%
+         family={Yao},
+         familyi={Y\bibinitperiod},
+         given={Yun-Fei},
+         giveni={Y\bibinithyphendelim F\bibinitperiod},
+      }}%
+      {{hash=WYM}{%
+         family={Wei},
+         familyi={W\bibinitperiod},
+         given={Yi-Ming},
+         giveni={Y\bibinithyphendelim M\bibinitperiod},
+      }}%
+      {{hash=LQM}{%
+         family={Liang},
+         familyi={L\bibinitperiod},
+         given={Qiao-Mei},
+         giveni={Q\bibinithyphendelim M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LLJ+1}
+    \strng{fullhash}{LLJCFYYFWYMLQM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    The new age of trade wars could simultaneously affect the worldwide distribution pattern of the economy and environmental emissions. However, previous studies have focused on economic impacts, and on trade liberalization, while little is known about the equilibrium effects of trade barriers on the environment. Using a global computable general equilibrium model and taking the recent anti-trade policies of the Trump administration as an example, this study investigates the possible socio-economic and environmental effects of trade friction. Specifically, this study explores how the implemented six rounds of China-US trade friction and its different long-term development trends affect regional economic output, GHG and air pollutant emissions. Results show that trade barriers harm both countries' economies and such losses have a certain permanence, while non-participants can benefit indirectly. Trade friction decreases participants' GHG emissions, modifies global GHG emission distribution patterns, and leads to improved air quality in most countries. If governments continue to impose tariffs, global GHG emissions could counterfactually decrease by up to 5%. However, the change in trade patterns is not conducive to clean energy development in the less-developed regions, including the Middle East, Africa, and Latin America, and emission reductions from trade friction are insufficient to avoid catastrophic climate change. (C) 2019 Elsevier B.V. All rights reserved.%
+    }
+    \verb{doi}
+    \verb 10.1016/j.reseneeco.2019.101144
+    \endverb
+    \field{issn}{0928-7655}
+    \field{note}{Times Cited: 41 Liang, Qiao-Mei/AAF-4556-2021; Creutzig, Felix/B-8691-2016 Creutzig, Felix/0000-0002-5710-3348 0 41 16 118 1873-0221}
+    \field{title}{Environmental and economic impacts of trade barriers: The example of China-US trade friction}
+    \verb{url}
+    \verb <Go to ISI>://WOS:000521518600010
+    \endverb
+    \field{volume}{59}
+    \field{type}{Journal Article}
+    \field{journaltitle}{Resource and Energy Economics}
+    \field{year}{2020}
+  \endentry
+
+  \entry{RN132}{article}{}
+    \name{author}{4}{}{%
+      {{hash=KTN}{%
+         family={Kahsay},
+         familyi={K\bibinitperiod},
+         given={Tewodros\bibnamedelima Negash},
+         giveni={T\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=KO}{%
+         family={Kuik},
+         familyi={K\bibinitperiod},
+         given={Onno},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=BR}{%
+         family={Brouwer},
+         familyi={B\bibinitperiod},
+         given={Roy},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=vdZP}{%
+         prefix={van\bibnamedelima der},
+         prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod},
+         family={Zaag},
+         familyi={Z\bibinitperiod},
+         given={Pieter},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KTN+1}
+    \strng{fullhash}{KTNKOBRvdZP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    A multi-country, multi-sector computable general equilibrium (CGE) model is used for the first time to evaluate the economic and water resource availability effects of trade liberalization (removal of import tariffs) and facilitation (reducing non-tariff barriers) under climate change in the Nile Basin. The analysis uses the GTAP 9 Database and the GTAP-W model that distinguishes between rainfed and irrigated agriculture and implements water as a factor of production directly substitutable in the production process of irrigated agriculture. A full trade liberalization and improved trade facilitation scenario is considered with and without climate change. The study reveals that trade liberalization and facilitation generates substantial economic benefits and enhances economic growth and welfare in the Nile basin. The effect of instituting a free trade policy on water savings is found to be limited, while climate change improves water supply and hence irrigation water use, enhancing economic growth and welfare in the basin.%
+    }
+    \verb{doi}
+    \verb 10.1007/s11269-017-1847-7
+    \endverb
+    \field{issn}{0920-4741}
+    \field{note}{Times Cited: 5 Brouwer, Roy/M-9437-2013; van der Zaag, Pieter/B-8247-2008; Kuik, Onno/K-9530-2013 Brouwer, Roy/0000-0002-0525-2050; van der Zaag, Pieter/0000-0002-1215-2656; Kuik, Onno/0000-0001-7495-2934 0 5 3 35 1573-1650}
+    \field{number}{3}
+    \field{pages}{935\bibrangedash 947}
+    \field{title}{The Transboundary Impacts of Trade Liberalization and Climate Change on the Nile Basin Economies and Water Resource Availability}
+    \verb{url}
+    \verb <Go to ISI>://WOS:000422982300007
+    \endverb
+    \field{volume}{32}
+    \field{type}{Journal Article}
+    \field{journaltitle}{Water Resources Management}
+    \field{year}{2018}
+  \endentry
+
+  \entry{RN147}{article}{}
+    \name{author}{5}{}{%
+      {{hash=LJ}{%
+         family={Lu},
+         familyi={L\bibinitperiod},
+         given={Jianhong},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=MX}{%
+         family={Mao},
+         familyi={M\bibinitperiod},
+         given={Xianqiang},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=WM}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Mudan},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=LZ}{%
+         family={Liu},
+         familyi={L\bibinitperiod},
+         given={Zhengyan},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=SP}{%
+         family={Song},
+         familyi={S\bibinitperiod},
+         given={Peng},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LJ+2}
+    \strng{fullhash}{LJMXWMLZSP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    The recent "US-China trade war" has aroused concern over trade-related environmental impacts. This study built a multiregional computable general equilibrium model to simulate environmental impacts of the "US-China trade war" under different scenarios of tariff and nontariff barriers and the battlefield spreading ranges. The present study found that although the trade war will cause a global economic downturn, which will seemingly reduce environmental pressure globally, global carbon emissions are expected to increase rather than decline. On the one hand, the CO2 emission increase caused by land-use changes in Brazil and Argentina will far exceed the emission reduction because of decreased global production. On the other hand, some countries/economies especially those developing countries such as Vietnam, Russia, and India will face emission increases driven by scale effects. Countries such as Korea, the UK, and France will enjoy a reduction in emissions driven by structural effects. China and the US will face a reduction in production and CO2 emissions, but their CO2 emission intensities will rise. The results remind us that as global production and supply chains are formed, it is important to closely monitor trade-related environmental impacts. Efforts should be made to balance the interests of trade and the environment.%
+    }
+    \verb{doi}
+    \verb 10.1021/acs.est.0c03863
+    \endverb
+    \field{issn}{0013-936X}
+    \field{note}{Times Cited: 17 XIONG, LIU/JOK-5886-2023; Lu, Jianhong/IYT-3322-2023; Lu, Jianhong/ Lu, Jianhong/0009-0008-8980-5927 0 17 8 110 1520-5851}
+    \field{number}{24}
+    \field{pages}{16108\bibrangedash 16118}
+    \field{title}{Global and National Environmental Impacts of the US-China Trade War}
+    \verb{url}
+    \verb <Go to ISI>://WOS:000600100400054
+    \endverb
+    \field{volume}{54}
+    \field{type}{Journal Article}
+    \field{journaltitle}{Environmental Science \& Technology}
+    \field{year}{2020}
+  \endentry
+
+  \entry{WOS:000657017300001}{article}{}
+    \name{author}{2}{}{%
+      {{hash=ME}{%
+         family={Mullen},
+         familyi={M\bibinitperiod},
+         given={Eleanor},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=MMA}{%
+         family={Morris},
+         familyi={M\bibinitperiod},
+         given={Michael\bibnamedelima A.},
+         giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ME+1}
+    \strng{fullhash}{MEMMA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    The turn of the 21st century heralded in the semiconductor age alongside the Anthropocene epoch, characterised by the ever-increasing human impact on the environment. The ecological consequences of semiconductor chip manufacturing are the most predominant within the electronics industry. This is due to current reliance upon large amounts of solvents, acids and gases that have numerous toxicological impacts. Management and assessment of hazardous chemicals is complicated by trade secrets and continual rapid change in the electronic manufacturing process. Of the many subprocesses involved in chip manufacturing, lithographic processes are of particular concern. Current developments in bottom-up lithography, such as directed self-assembly (DSA) of block copolymers (BCPs), are being considered as a next-generation technology for semiconductor chip production. These nanofabrication techniques present a novel opportunity for improving the sustainability of lithography by reducing the number of processing steps, energy and chemical waste products involved. At present, to the extent of our knowledge, there is no published life cycle assessment (LCA) evaluating the environmental impact of new bottom-up lithography versus conventional lithographic techniques. Quantification of this impact is central to verifying whether these new nanofabrication routes can replace conventional deposition techniques in industry as a more environmentally friendly option.%
+    }
+    \verb{doi}
+    \verb 10.3390/nano11051085
+    \endverb
+    \field{number}{5}
+    \field{title}{Green Nanofabrication Opportunities in the Semiconductor Industry: A Life Cycle Perspective}
+    \field{volume}{11}
+    \field{type}{Review}
+    \field{journaltitle}{NANOMATERIALS}
+    \field{year}{2021}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{does_protectionism_improve_environment}{article}{}
+    \name{author}{4}{}{%
+      {{hash=WQ}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Qiang},
+         giveni={Q\bibinitperiod},
+      }}%
+      {{hash=JF}{%
+         family={Jiang},
+         familyi={J\bibinitperiod},
+         given={Feng},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=LR}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={Rongrong},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=WX}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Xiaowei},
+         giveni={X\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WQ+2}
+    \strng{fullhash}{WQJFLRWX2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    Past studies related to embodied pollutant accounting reported that free trade has increased the environmental pollution of developing economies, because the developed countries "outsource " their pollutants to developing nations. The COVID-19 pandemic has stimulated the rise of the most serious protectionism after World War II. This study is aimed to discuss whether protectionism improve the environment in developing countries by developing a comprehensive evaluation model, which integrates multi-regional input-output (MRIO), data envelopment analysis (DEA), and scenario analysis. We revealed the role of protectionism from two perspectives: the single impact on pollutant emissions and the comprehensive impact on environmental efficiency. Specifically, the capital inputs, labor inputs, energy consumption, economic output, carbon dioxide, sulfur dioxide and nitrogen oxides emissions related to global trade activities were simulated based on the MRIO. And then, sector-level trade environmental efficiency was computed by intergrading the MRIO and DEA using a non-radial directional distance function. Finally, the environmental efficiency of both developing and developed countries under two scenarios with and without trade were estimated. The results confirmed that trade has increased the CO2, SO2 and NOX emissions of developing economies by 12.9{\%}, 9.8{\%} and 12.3{\%}, and has reduced that of developed economies by 6.0{\%}, 29.4{\%} and 21.2{\%}, respectively. However, the results also uncovered that the environmental efficiency of developing and developed economies was dropped by 3{\%} and 5{\%}, respectively, under no-trade scenario. We contend that protectionism is not conducive to the sustainable development of developing countries because it lowers their environmental efficiency, although it may reduce their territorial pollutant emissions. For developed countries, the single impact of protectionism on pollutant emission reduction and the comprehensive impact on environmental efficiency are both negative.(c) 2022 Institution of Chemical Engineers. Published by Elsevier Ltd. All rights reserved.%
+    }
+    \verb{doi}
+    \verb 10.1016/j.spc.2022.01.011
+    \endverb
+    \field{pages}{851\bibrangedash 869}
+    \field{title}{Does protectionism improve environment of developing countries? A perspective of environmental efficiency assessment}
+    \field{volume}{30}
+    \field{type}{Article}
+    \field{journaltitle}{SUSTAINABLE PRODUCTION AND CONSUMPTION}
+    \field{year}{2022}
+    \warn{\item Invalid format of field 'date' \item Invalid format of field 'date' \item Invalid format of field 'month'}
+  \endentry
+
+  \entry{production_fragmentation_and_inter-provincial_trade_water_china}{article}{}
+    \name{author}{6}{}{%
+      {{hash=YQ}{%
+         family={Ye},
+         familyi={Y\bibinitperiod},
+         given={Quanliang},
+         giveni={Q\bibinitperiod},
+      }}%
+      {{hash=WR}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Ranran},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=SJF}{%
+         family={Schyns},
+         familyi={S\bibinitperiod},
+         given={Joep\bibnamedelima F.},
+         giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=ZL}{%
+         family={Zhuo},
+         familyi={Z\bibinitperiod},
+         given={La},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=YL}{%
+         family={Yang},
+         familyi={Y\bibinitperiod},
+         given={Lan},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=KMS}{%
+         family={Krol},
+         familyi={K\bibinitperiod},
+         given={Maarten\bibnamedelima S.},
+         giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{YQ+1}
+    \strng{fullhash}{YQWRSJFZLYLKMS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    Freshwater resources are used to produce commodities that are traded and consumed elsewhere, which generate virtual water flows. The relation between regional blue water scarcity levels-the degree of competition over limited surface and groundwater flows-and inter-regional virtual water flows has been studied. However, the effects of production fragmentation on this relation are still not properly understood. Production fragmentation is the distribution of the production process across different regions, resulting in inter-regional trade of both intermediate and finished goods and services, which involve different virtual water networks. This study formulates a comprehensive trade disaggregation approach to elaborate the virtual water networks of three trade patterns (i.e., direct final goods trade, intermediate goods trade for the last step of production, and value chain related trade) within China, and further analyzes the impacts of trade on provincial blue water scarcity by comparing the actual water scarcity with that under a "no-trade " scenario (NTS). In 2012, there was 128 km(3) blue water virtually transferred across provinces because of inter-provincial trade. Direct final goods trade contributed the most to the virtual water trade (accounting for 47{\%} of the total), whereas value chain-related trade induced the least (17{\%}). Compared with the results under the NTS, we found that current trade alleviated the water scarcity in provinces under extreme water scarcity, but worsened the water scarcity of this nation from a broader scope. Our study suggests policy makers fully considering specific trade patterns and their impacts on provincial or national water consumption to cope with water scarcity in China.%
+    }
+    \verb{doi}
+    \verb 10.1016/j.jclepro.2021.130186
+    \endverb
+    \field{title}{Effects of production fragmentation and inter-provincial trade on spatial blue water consumption and scarcity patterns in China}
+    \field{volume}{334}
+    \field{type}{Article}
+    \field{journaltitle}{JOURNAL OF CLEANER PRODUCTION}
+    \field{year}{2022}
+    \warn{\item Invalid format of field 'date' \item Invalid format of field 'date' \item Invalid format of field 'month'}
+  \endentry
+
+  \entry{China's_inter-provincial_trade}{article}{}
+    \name{author}{5}{}{%
+      {{hash=LB}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={Boyan},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=WC}{%
+         family={Wangv},
+         familyi={W\bibinitperiod},
+         given={Chao},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=WY}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Yunchen},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=WW}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Wei},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=LA}{%
+         family={Lin},
+         familyi={L\bibinitperiod},
+         given={Aiwen},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LB+1}
+    \strng{fullhash}{LBWCWYWWLA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    Assessing progress towards achieving the Sustainable Development Goals (SDGs) is among the most pressing areas for sustainability research. Both international and inter-provincial trade has substantial impacts on sustainability. However, little is known about the impacts of inter-provincial trade on progress towards achieving the SDG targets and the relationships among SDG indicators through time and space. Here we, taking Chinese inter-provincial trade as a study case, used a spatiotemporal approach and the multi-regional input-output (MRIO) model to examine changes in six SDG indicators and their relationships within China in the year 2002, 2007, 2010, 2012, 2015, and 2017. The results showed that (1) Chinese inter-provincial trade improved the trade-related SDG target scores of 16 provinces out of the evaluated 30 provinces but reduced the trade-related SDG target scores of the remaining 14 provinces. (2) Chinese inter-provincial trade and distant trade were more beneficial for achieving the trade-related SDG targets in developed provinces (e.g., Beijing), which thus improved China's overall SDG target scores. In contrast, Chinese inter-provincial trade suppressed the trade-related SDG target scores of developing provinces (e.g., Guangxi). (3) Individual SDG indicators, SDG target bundles, and interactions among SDG indicators changed across both time and space. (4) The no-trade scenario in Hubei province during the COVID-19 pandemic will have a clearly inhibiting effect on China's overall SDG target scores. Besides, trade with adjacent provinces would improve Hubei's SDG target scores, while these trades have more negative effects (approximately 50-83{\%} of provinces suffered from greater reductions in SDG target scores) on Hubei's adjacent provinces. Our study suggests the spatiotemporal dynamic characteristics of SDG indicators and their interactions deserve more attention, which can help identify the drivers behind these changing relationships.%
+    }
+    \verb{doi}
+    \verb 10.1016/j.jclepro.2023.135983
+    \endverb
+    \field{title}{Impact assessment of China's inter-provincial trade on trade-related sustainable development goals}
+    \field{volume}{388}
+    \field{type}{Article}
+    \field{journaltitle}{JOURNAL OF CLEANER PRODUCTION}
+    \field{year}{2023}
+    \warn{\item Invalid format of field 'date' \item Invalid format of field 'date' \item Invalid format of field 'month'}
+  \endentry
+
+  \entry{impacts_of_US_carbon_intensity}{article}{}
+    \name{author}{2}{}{%
+      {{hash=WQ}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Qiang},
+         giveni={Q\bibinitperiod},
+      }}%
+      {{hash=SX}{%
+         family={Song},
+         familyi={S\bibinitperiod},
+         given={Xiaoxin},
+         giveni={X\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WQ+2}
+    \strng{fullhash}{WQSX1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    After the USA reached its carbon emission peak in 2007, the share of carbon emissions from its energy activities showed a downward trend. As a country that accounts for even close to 80{\%} of the tertiary industry, the final demands from other industries are usually met by other countries in the form of international trade. While trade is realizing economic transfer, it also realizes the transfer of carbon emissions to a certain extent, helping the country achieve the peaks. From the perspective of combining carbon emission transfer and economic transfer, are there transfers and impacts? In this study, the quantified impact of international trade on the USA's carbon intensity has been investigated by a novel framework, based on a porposed scenario analysis using MRIO. As it gets lower aggregate carbon intensity value under trade scenario, it concludes that international trade is more conducive to the needs of this country for carbon emission reduction and economic development in general. From the different trade patterns, all of them get lower carbon intensity values under trade than no-trade scenario. From trade partners' perspectives, the positive and negative of the intensity gap cannot be kept uniform for all traders. Sectoral driving factors are decomposed by LMDI method, with the sectoral effect of aggrerate value-added structure and sectoral aggregate embodied carbon intensity. Among obvious carbon-intensive sectors, transport sectors always show a negative effect for the gap, and heavy manufacturing and electricity sectors usually give positive effects. As a major trading country in the world, trade and exchanges with other countries are more conducive to this country with a lower carbon intensity, and it also requires the country to shoulder coresponding responsiblities as a great power while enjoying the benefies. It is conducive to the further strengthening of unity of the international community, to jointly address the challenges of climate change and achieve the subsequent carbon neutral targets.%
+    }
+    \verb{doi}
+    \verb 10.1007/s11356-021-18315-3
+    \endverb
+    \field{number}{22}
+    \field{pages}{33075\bibrangedash 33094}
+    \field{title}{Quantified impacts of international trade on the United States' carbon intensity}
+    \field{volume}{29}
+    \field{type}{Article}
+    \field{journaltitle}{ENVIRONMENTAL SCIENCE AND POLLUTION RESEARCH}
+    \field{year}{2022}
+    \warn{\item Invalid format of field 'date' \item Invalid format of field 'date' \item Invalid format of field 'month'}
+  \endentry
+
+  \entry{RN135}{article}{}
+    \name{author}{1}{}{%
+      {{hash=LW}{%
+         family={Leontief},
+         familyi={L\bibinitperiod},
+         given={W.},
+         giveni={W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LW1}
+    \strng{fullhash}{LW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1109/proc.1975.9758
+    \endverb
+    \field{issn}{0018-9219}
+    \field{note}{Times Cited: 19 2 24 18}
+    \field{number}{3}
+    \field{pages}{345\bibrangedash 351}
+    \field{title}{STRUCTURE OF WORLD ECONOMY - OUTLINE OF A SIMPLE INPUT-OUTPUT FORMULATION}
+    \verb{url}
+    \verb <Go to ISI>://WOS:A1975V809000002
+    \endverb
+    \field{volume}{63}
+    \field{type}{Journal Article}
+    \field{journaltitle}{Proceedings of the Ieee}
+    \field{year}{1975}
+  \endentry
+
+  \entry{RN145}{article}{}
+    \name{author}{5}{}{%
+      {{hash=LY}{%
+         family={Long},
+         familyi={L\bibinitperiod},
+         given={Yin},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=YY}{%
+         family={Yoshid},
+         familyi={Y\bibinitperiod},
+         given={Yoshikuni},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=ZR}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Runsen},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=SL}{%
+         family={Sun},
+         familyi={S\bibinitperiod},
+         given={Lu},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=DY}{%
+         family={Dou},
+         familyi={D\bibinitperiod},
+         given={Yi},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LY+1}
+    \strng{fullhash}{LYYYZRSLDY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    In Japan, the Great East Earthquake caused numerous casualties and the subsequent suspension of operations at the Fukushima Daiichi Nuclear Power Plant continues to have an adverse impact on the national energy supply chain. The structural changes in energy supply have served to reinforce the importance of national emissions accounting in promoting overall CO2 reduction policies. However, traditional approaches for evaluating industrial emissions have been criticized for their production-based perspective, which fails to consider emissions embodied in sectoral indirect consumption. The purpose of this study is therefore to understand the sectoral emission transfer. By applying economic input-output tables, detailed sectoral economic interactions can be usefully identified. It was found that the emissions embodied in final consumption generated largely by households. Besides, although emission intensity of manufacturing sector is extremely high in direct emission, agriculture sector is found to exceed other sectors in indirect emission intensities. From the consumption-side, these findings strongly suggest that a high priority be given to mitigation efforts aimed at reducing residential consumption, whist policy priorities are expected to be located on agriculture-related sectors from production-side. The study hence provides insights into how we can better allocate emissions responsibility and set reduction priorities among major economic sectors.%
+    }
+    \verb{doi}
+    \verb 10.1016/j.enpol.2018.04.052
+    \endverb
+    \field{issn}{0301-4215}
+    \field{note}{Times Cited: 31 Zhang, Runsen/U-1815-2017; Sun, Lu/L-2238-2019; Zhang, Runsen/HTN-9716-2023; Long, Yin/ABC-1391-2020; Yoshida, Yoshikuni/ Sun, Lu/0000-0001-7356-7866; Long, Yin/0000-0002-6761-9735; Yoshida, Yoshikuni/0000-0002-8834-8671 0 31 2 52 1873-6777}
+    \field{pages}{339\bibrangedash 348}
+    \field{title}{Policy implications from revealing consumption-based carbon footprint of major economic sectors in Japan}
+    \verb{url}
+    \verb <Go to ISI>://WOS:000439671200031
+    \endverb
+    \field{volume}{119}
+    \field{type}{Journal Article}
+    \field{journaltitle}{Energy Policy}
+    \field{year}{2018}
+  \endentry
+
+  \entry{RN128}{article}{}
+    \name{author}{3}{}{%
+      {{hash=FR}{%
+         family={Färe},
+         familyi={F\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=GS}{%
+         family={Grosskopf},
+         familyi={G\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=HSF}{%
+         family={Hernandez-Sancho},
+         familyi={H\bibinithyphendelim S\bibinitperiod},
+         given={F.},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FR+1}
+    \strng{fullhash}{FRGSHSF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    Tyteca [J. Environ. Manage. 46 (1996) 281] reviews the literature on environmental performance indicators. In that paper he calls for an index that simultaneously accounts for resources used, good outputs produced and pollutants or undesirable outputs emitted. Here, we provide a formal index number of environmental performance which can be computed using data envelopment analysis (DEA) techniques. The implicit benchmark is that of finding the highest ratio of good to bad outputs. Our environmental performance index is constructed from distance functions which implies that it satisfies a number of desirable properties. Since the component distance functions require only information on input and output quantities, the fact that bad outputs typically are not marketed and therefore have no readily observable 'price' poses no obstacle. We apply our method to a sample of OECD countries for 1990. (C) 2003 Elsevier B.V. All rights reserved.%
+    }
+    \verb{doi}
+    \verb 10.1016/j.reseneeco.2003.10.003
+    \endverb
+    \field{issn}{0928-7655}
+    \field{note}{Times Cited: 285 Fare, Rolf/H-5932-2013; GROSSKOPF, Shawnax/H-4031-2013; Hernandez-Sancho, Francesc/ Hernandez-Sancho, Francesc/0000-0002-9889-4131 1 308 0 93 1873-0221}
+    \field{number}{4}
+    \field{pages}{343\bibrangedash 352}
+    \field{title}{Environmental performance:: an index number approach}
+    \verb{url}
+    \verb <Go to ISI>://WOS:000225934000001
+    \endverb
+    \field{volume}{26}
+    \field{type}{Journal Article}
+    \field{journaltitle}{Resource and Energy Economics}
+    \field{year}{2004}
+  \endentry
+
+  \entry{RN125}{article}{}
+    \name{author}{3}{}{%
+      {{hash=DJ}{%
+         family={Du},
+         familyi={D\bibinitperiod},
+         given={Juan},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=CY}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={Yao},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=HY}{%
+         family={Huang},
+         familyi={H\bibinitperiod},
+         given={Ying},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DJ+1}
+    \strng{fullhash}{DJCYHY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    The Malmquist-Luenberger (M-L) index has been used to assess environmental productivity growth with undesirable outputs, through applying directional distance function (DDF) to standard Malmquist productivity measurement. However, when calculating the cross-period DDFs, the M-L index has the same infeasibility problem as the Malmquist index does. To address this infeasibility problem, this paper discusses when infeasibility may happen and develops a modified M-L index that is based on a new DDF. We propose that the modified M-L index can be applied to assessing environmental performance at both macro-and micro-levels. At a macro-level, we evaluate China's growth in total factor productivity (TFP) from 1999 to 2012, accounting for undesirable impacts. The results show that technical change is the main driver of most TFP growth. The TFP changes support the status quo of a distinct gap in economic development among different regions. At a micro-level, we assess Chinese auto manufacturers' environmental performance from 2005 to 2012. The results suggest that Chinese automakers have enjoyed a noticeable TFP improvement, and that technical change is the major contributor as well. Taking together, reducing air emissions and other pollutants is an effective way of improving environmental productivity. As demonstrated, the proposed modified M-L index has proved to be consistently feasible and guarantees non-negative reference targets for all metrics. As a result, we recommend the modified M-L index as a robust tool for solving the infeasibility problem that is typical in conventional index and for assessing productivity under environmental impacts. Published by Elsevier B.V.%
+    }
+    \verb{doi}
+    \verb 10.1016/j.ejor.2017.01.006
+    \endverb
+    \field{issn}{0377-2217}
+    \field{note}{Times Cited: 86 0 88 3 80 1872-6860}
+    \field{number}{1}
+    \field{pages}{171\bibrangedash 187}
+    \field{title}{A Modified Malmquist-Luenberger Productivity Index: Assessing Environmental Productivity Performance in China}
+    \verb{url}
+    \verb <Go to ISI>://WOS:000433017000014
+    \endverb
+    \field{volume}{269}
+    \field{type}{Journal Article}
+    \field{journaltitle}{European Journal of Operational Research}
+    \field{year}{2018}
+  \endentry
+
+  \entry{RN150}{article}{}
+    \name{author}{1}{}{%
+      {{hash=PCA}{%
+         family={Pasurka},
+         familyi={P\bibinitperiod},
+         given={C.\bibnamedelima A.},
+         giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PCA1}
+    \strng{fullhash}{PCA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    This study calculates the relative importance of factors associated with changes in NO., and SO, emissions by coal-fired electric power plants between 1987 and 1995 using distance functions to model the joint production of good and bad outputs. This new decomposition model calculates changes in emissions (the bad outputs) associated with changes in technical efficiency, technical change, growth of fuel and non-fuel inputs, and changes in the mix of good and bad outputs. This study finds that declining SO, emissions are primarily associated with changes in the output mix, while declining NOx emissions are associated with declining fuel consumption and changes in the output mix. (c) 2005 Elsevier B.V. All rights reserved.%
+    }
+    \verb{doi}
+    \verb 10.1016/j.eneco.2005.08.002
+    \endverb
+    \field{issn}{0140-9883}
+    \field{note}{Times Cited: 127 78th Annual Conference of the Western-Economics-Association-International Jul 11-15, 2003 Denver, CO Western Econ Assoc Int Pasurka, Carl/H-8996-2016 Pasurka, Carl/0000-0001-9846-1507 0 135 1 26 1873-6181}
+    \field{number}{1}
+    \field{pages}{26\bibrangedash 43}
+    \field{title}{Decomposing electric power plant emissions within a joint production framework}
+    \verb{url}
+    \verb <Go to ISI>://WOS:000235259900002
+    \endverb
+    \field{volume}{28}
+    \field{type}{Journal Article}
+    \field{journaltitle}{Energy Economics}
+    \field{year}{2006}
+  \endentry
+
+  \entry{RN175}{article}{}
+    \name{author}{8}{}{%
+      {{hash=YL}{%
+         family={Yang},
+         familyi={Y\bibinitperiod},
+         given={Lan},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=WY}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Yutao},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=WR}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Ranran},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=KJJ}{%
+         family={Klemes},
+         familyi={K\bibinitperiod},
+         given={Jiri\bibnamedelima Jaromir},
+         giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=VBdACM}{%
+         prefix={Villas Boas\bibnamedelima de},
+         prefixi={V\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim d\bibinitperiod},
+         family={Almeida},
+         familyi={A\bibinitperiod},
+         given={Cecilia\bibnamedelima Maria},
+         giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=JM}{%
+         family={Jin},
+         familyi={J\bibinitperiod},
+         given={Mingzhou},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=ZX}{%
+         family={Zheng},
+         familyi={Z\bibinitperiod},
+         given={Xinzhu},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=QY}{%
+         family={Qiao},
+         familyi={Q\bibinitperiod},
+         given={Yuanbo},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{YL+1}
+    \strng{fullhash}{YLWYWRKJJVBdACMJMZXQY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    Asia-Pacific (APAC) has been the world's most dynamic emerging area of economic development and trade in recent decades. Here, we reveal the significant and imbalanced environmental and socio-economic effects of the region's growths during 1995-2015. Owing to the intra-regional trade of goods and services, APAC economies grew increasingly interdependent in each other's water and energy use, greenhouse gas (GHG) and PM2.5 emissions, and labor and economic productivity, while the environmental and economic disparity widened within the region. Furthermore, our results highlight APAC's significant role in globalization. By 2015, APAC was engaged in 50-71% of the virtual flows of water, energy, GHG, PM2.5, labor, and value added embodied in international trade. While the region's final demand and trade grew less resource- and emissions-intensive, predominantly led by China's transformations, APAC still lags behind global averages after two decades. More joint efforts of APAC economies and attention to sustainable transformation are needed.%
+    }
+    \verb{doi}
+    \verb 10.1038/s41467-020-18338-3
+    \endverb
+    \field{note}{Times Cited: 62 Klemes, Jiri Jaromir/B-7291-2009; Wang, Yutao/P-4878-2019; Almeida, Cecilia M V B/G-7865-2012; Jin, Mingzhou/; Almeida, Cecilia M V B/; Reis, AlessanRSS/ Klemes, Jiri Jaromir/0000-0002-7450-7029; Wang, Yutao/0000-0001-8297-8579; Jin, Mingzhou/0000-0002-2387-8129; Almeida, Cecilia M V B/0000-0002-0473-906X; Reis, AlessanRSS/0000-0001-8486-7469 0 62 24 190 2041-1723}
+    \field{number}{1}
+    \field{title}{Environmental-social-economic footprints of consumption and trade in the Asia-Pacific region}
+    \verb{url}
+    \verb <Go to ISI>://WOS:000607104800001
+    \endverb
+    \field{volume}{11}
+    \field{type}{Journal Article}
+    \field{journaltitle}{Nature Communications}
+    \field{year}{2020}
+  \endentry
+
+  \entry{timmer2015illustrated}{article}{}
+    \name{author}{5}{}{%
+      {{hash=TMP}{%
+         family={Timmer},
+         familyi={T\bibinitperiod},
+         given={Marcel\bibnamedelima P},
+         giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=DE}{%
+         family={Dietzenbacher},
+         familyi={D\bibinitperiod},
+         given={Erik},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=LB}{%
+         family={Los},
+         familyi={L\bibinitperiod},
+         given={Bart},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=SR}{%
+         family={Stehrer},
+         familyi={S\bibinitperiod},
+         given={Robert},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=DVGJ}{%
+         family={De\bibnamedelima Vries},
+         familyi={D\bibinitperiod\bibinitdelim V\bibinitperiod},
+         given={Gaaitzen\bibnamedelima J},
+         giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley Online Library}%
+    }
+    \strng{namehash}{TMP+1}
+    \strng{fullhash}{TMPDELBSRDVGJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{3}
+    \field{pages}{575\bibrangedash 605}
+    \field{title}{An illustrated user guide to the world input--output database: the case of global automotive production}
+    \field{volume}{23}
+    \field{journaltitle}{Review of International Economics}
+    \field{year}{2015}
+  \endentry
+
+  \entry{RN159}{article}{}
+    \name{author}{5}{}{%
+      {{hash=TMP}{%
+         family={Timmer},
+         familyi={T\bibinitperiod},
+         given={Marcel\bibnamedelima P.},
+         giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=DE}{%
+         family={Dietzenbacher},
+         familyi={D\bibinitperiod},
+         given={Erik},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=LB}{%
+         family={Los},
+         familyi={L\bibinitperiod},
+         given={Bart},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=SR}{%
+         family={Stehrer},
+         familyi={S\bibinitperiod},
+         given={Robert},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=dVGJ}{%
+         prefix={de},
+         prefixi={d\bibinitperiod},
+         family={Vries},
+         familyi={V\bibinitperiod},
+         given={Gaaitzen\bibnamedelima J.},
+         giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TMP+2}
+    \strng{fullhash}{TMPDELBSRdVGJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    This article provides guidance to prudent use of the World Input-Output Database (WIOD) in analyses of international trade. The WIOD contains annual time-series of world input-output tables and factor requirements covering the period from 1995 to 2011. Underlying concepts, construction methods and data sources are introduced, pointing out particular strengths and weaknesses. We illustrate its usefulness by analyzing the geographical and factorial distribution of value added in global automotive production and show increasing fragmentation, both within and across regions. Possible improvements and extensions to the data are discussed.%
+    }
+    \verb{doi}
+    \verb 10.1111/roie.12178
+    \endverb
+    \field{issn}{0965-7576}
+    \field{note}{Times Cited: 1210 Los, Bart/ABE-5900-2020; Dietzenbacher, Erik/AAK-6681-2021; timmer, marcel p/A-7716-2008; Dietzenbacher, Erik/ Dietzenbacher, Erik/0000-0001-8874-4175 20 1317 24 328 1467-9396}
+    \field{number}{3}
+    \field{pages}{575\bibrangedash 605}
+    \field{title}{An Illustrated User Guide to the World Input-Output Database: the Case of Global Automotive Production}
+    \verb{url}
+    \verb <Go to ISI>://WOS:000358178400007
+    \endverb
+    \field{volume}{23}
+    \field{type}{Journal Article}
+    \field{journaltitle}{Review of International Economics}
+    \field{year}{2015}
+  \endentry
+
+  \entry{stadler_2017_1040821}{misc}{}
+    \name{author}{6}{}{%
+      {{hash=S}{%
+         family={Stadler},
+         familyi={S\bibinitperiod},
+      }}%
+      {{hash=W}{%
+         family={Wood},
+         familyi={W\bibinitperiod},
+      }}%
+      {{hash=B}{%
+         family={Bulavskaya},
+         familyi={B\bibinitperiod},
+      }}%
+      {{hash=S}{%
+         family={Södersten},
+         familyi={S\bibinitperiod},
+      }}%
+      {{hash=dK}{%
+         prefix={de},
+         prefixi={d\bibinitperiod},
+         family={Koning},
+         familyi={K\bibinitperiod},
+      }}%
+      {{hash=T}{%
+         family={Tukker},
+         familyi={T\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Zenodo}%
+    }
+    \strng{namehash}{S+1}
+    \strng{fullhash}{SWBSdKT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.5281/zenodo.1040821
+    \endverb
+    \field{title}{{EXIOBASE 3 - Compilation and analysis of an EE MRIO time-series in current and constant prices}}
+    \verb{url}
+    \verb https://doi.org/10.5281/zenodo.1040821
+    \endverb
+    \field{month}{11}
+    \field{year}{2017}
+  \endentry
+\enddatalist
+\endinput
