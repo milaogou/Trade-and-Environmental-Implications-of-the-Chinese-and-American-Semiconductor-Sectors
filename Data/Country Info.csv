@@ -1,0 +1,50 @@
+iso_3166_1_,iso3,name,status,continent,Region,color_code
+AT,AUT,Austria,Member State,Europe,Western Europe,AUT
+AU,AUS,Australia,Member State,Oceania,Australia and New Zealand,AUS
+BE,BEL,Belgium,Member State,Europe,Western Europe,BEL
+BG,BGR,Bulgaria,Member State,Europe,Eastern Europe,BGR
+BR,BRA,Brazil,Member State,Americas,South America,BRA
+CA,CAN,Canada,Member State,Americas,Northern America,CAN
+CH,CHE,Switzerland,Member State,Europe,Western Europe,CHE
+CN,CHN,China,Member State,Asia,Eastern Asia,CHN
+CY,CYP,Cyprus,Member State,Asia,Western Asia,CYP
+CZ,CZE,Czech Republic,Member State,Europe,Eastern Europe,CZE
+DE,DEU,Germany,Member State,Europe,Western Europe,DEU
+DK,DNK,Denmark,Member State,Europe,Northern Europe,DNK
+EE,EST,Estonia,Member State,Europe,Northern Europe,EST
+ES,ESP,Spain,Member State,Europe,Southern Europe,ESP
+FI,FIN,Finland,Member State,Europe,Northern Europe,FIN
+FR,FRA,France,Member State,Europe,Western Europe,FRA
+GB,GBR,U.K. of Great Britain and Northern Ireland,Member State,Europe,Northern Europe,GBR
+GR,GRC,Greece,Member State,Europe,Southern Europe,GRC
+HR,HRV,Croatia,Member State,Europe,Southern Europe,HRV
+HU,HUN,Hungary,Member State,Europe,Eastern Europe,HUN
+ID,IDN,Indonesia,Member State,Asia,South-Eastern Asia,IDN
+IE,IRL,Ireland,Member State,Europe,Northern Europe,IRL
+IN,IND,India,Member State,Asia,Southern Asia,IND
+IT,ITA,Italy,Member State,Europe,Southern Europe,ITA
+JP,JPN,Japan,Member State,Asia,Eastern Asia,JPN
+KR,KOR,Republic of Korea,Member State,Asia,Eastern Asia,KOR
+LT,LTU,Lithuania,Member State,Europe,Northern Europe,LTU
+LU,LUX,Luxembourg,Member State,Europe,Western Europe,LUX
+LV,LVA,Latvia,Member State,Europe,Northern Europe,LVA
+MT,MLT,Malta,Member State,Europe,Southern Europe,MLT
+MX,MEX,Mexico,Member State,Americas,Central America,MEX
+NL,NLD,Netherlands,Member State,Europe,Western Europe,NLD
+NO,NOR,Norway,Member State,Europe,Northern Europe,NOR
+PL,POL,Poland,Member State,Europe,Eastern Europe,POL
+PT,PRT,Portugal,Member State,Europe,Southern Europe,PRT
+RO,ROU,Romania,Member State,Europe,Eastern Europe,ROU
+RU,RUS,Russian Federation,Member State,Europe,Eastern Europe,RUS
+SE,SWE,Sweden,Member State,Europe,Northern Europe,SWE
+SI,SVN,Slovenia,Member State,Europe,Southern Europe,SVN
+SK,SVK,Slovakia,Member State,Europe,Eastern Europe,SVK
+TR,TUR,Turkey,Member State,Asia,Western Asia,TUR
+TW,TWN,Taiwan,CN Province,Asia,Eastern Asia,CHN
+US,USA,United States of America,Member State,Americas,Northern America,USA
+WA,,,,,,
+WE,,,,,,
+WF,,,,,,
+WL,,,,,,
+WM,,,,,,
+ZA,ZAF,South Africa,Member State,Africa,Southern Africa,ZAF
